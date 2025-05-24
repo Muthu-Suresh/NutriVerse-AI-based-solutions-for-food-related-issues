@@ -1,0 +1,5001 @@
+food,category
+orange,healthy
+apricot,healthy
+strawberry,healthy
+cookies,unhealthy
+fries,unhealthy
+fries,unhealthy
+fried chicken,unhealthy
+peach,healthy
+apricot,healthy
+spinach,healthy
+energy drink,unhealthy
+cake,unhealthy
+blueberry,healthy
+candy bar,unhealthy
+candy bar,unhealthy
+candy,unhealthy
+blueberry,healthy
+apricot,healthy
+cookies,unhealthy
+peach,healthy
+cucumber,healthy
+cucumber,healthy
+cake,unhealthy
+cherries,healthy
+fries,unhealthy
+broccoli,healthy
+avocado,healthy
+apricot,healthy
+pasta,unhealthy
+cucumber,healthy
+grapes,healthy
+cookies,unhealthy
+potato chips,unhealthy
+blueberry,healthy
+peach,healthy
+melon,healthy
+melon,healthy
+banana,healthy
+fried chicken,unhealthy
+apricot,healthy
+avocado,healthy
+ice cream,unhealthy
+fried fish,unhealthy
+orange,healthy
+chips,unhealthy
+fried chicken,unhealthy
+pear,healthy
+cookies,unhealthy
+nachos,unhealthy
+pastry,unhealthy
+pear,healthy
+grapes,healthy
+peach,healthy
+chocolate,unhealthy
+spinach,healthy
+tomato,healthy
+watermelon,healthy
+grapes,healthy
+potato chips,unhealthy
+donut,unhealthy
+candy bar,unhealthy
+tomato,healthy
+melon,healthy
+blueberry,healthy
+spinach,healthy
+candy bar,unhealthy
+cheese sticks,unhealthy
+kiwi,healthy
+banana,healthy
+cookies,unhealthy
+tomato,healthy
+cucumber,healthy
+cookies,unhealthy
+spinach,healthy
+mango,healthy
+fries,unhealthy
+blueberry,healthy
+energy drink,unhealthy
+donut,unhealthy
+fried fish,unhealthy
+blueberry,healthy
+ice cream,unhealthy
+soda,unhealthy
+apricot,healthy
+melon,healthy
+strawberry,healthy
+cake,unhealthy
+tomato,healthy
+apple,healthy
+mango,healthy
+burger,unhealthy
+donut,unhealthy
+apple,healthy
+spinach,healthy
+kiwi,healthy
+fried fish,unhealthy
+soda,unhealthy
+ice cream,unhealthy
+peach,healthy
+chips,unhealthy
+banana,healthy
+ice cream,unhealthy
+chips,unhealthy
+apricot,healthy
+candy bar,unhealthy
+carrot,healthy
+pastry,unhealthy
+cucumber,healthy
+cherries,healthy
+fried fish,unhealthy
+pasta,unhealthy
+fried fish,unhealthy
+fried fish,unhealthy
+ice cream,unhealthy
+chocolate,unhealthy
+grapes,healthy
+burger,unhealthy
+orange,healthy
+watermelon,healthy
+soda,unhealthy
+watermelon,healthy
+fries,unhealthy
+melon,healthy
+mango,healthy
+ice cream,unhealthy
+carrot,healthy
+avocado,healthy
+cookies,unhealthy
+chips,unhealthy
+fried fish,unhealthy
+fries,unhealthy
+blueberry,healthy
+grapes,healthy
+cheese sticks,unhealthy
+nachos,unhealthy
+cheese sticks,unhealthy
+apple,healthy
+cookies,unhealthy
+chips,unhealthy
+apple,healthy
+ice cream,unhealthy
+fried fish,unhealthy
+banana,healthy
+peach,healthy
+tomato,healthy
+fried chicken,unhealthy
+burger,unhealthy
+banana,healthy
+fried fish,unhealthy
+energy drink,unhealthy
+cucumber,healthy
+tomato,healthy
+candy,unhealthy
+kiwi,healthy
+spinach,healthy
+pear,healthy
+kiwi,healthy
+pastry,unhealthy
+blueberry,healthy
+peach,healthy
+nachos,unhealthy
+ice cream,unhealthy
+tomato,healthy
+cake,unhealthy
+avocado,healthy
+pear,healthy
+banana,healthy
+melon,healthy
+melon,healthy
+fried chicken,unhealthy
+mango,healthy
+pastry,unhealthy
+fries,unhealthy
+chips,unhealthy
+ice cream,unhealthy
+ice cream,unhealthy
+ice cream,unhealthy
+grapes,healthy
+fried chicken,unhealthy
+burger,unhealthy
+blueberry,healthy
+pasta,unhealthy
+melon,healthy
+pear,healthy
+cookies,unhealthy
+apricot,healthy
+cucumber,healthy
+nachos,unhealthy
+chips,unhealthy
+pasta,unhealthy
+pastry,unhealthy
+cucumber,healthy
+cherries,healthy
+avocado,healthy
+melon,healthy
+avocado,healthy
+apple,healthy
+banana,healthy
+orange,healthy
+watermelon,healthy
+nachos,unhealthy
+apricot,healthy
+melon,healthy
+melon,healthy
+fried chicken,unhealthy
+potato chips,unhealthy
+mango,healthy
+pizza,unhealthy
+pizza,unhealthy
+melon,healthy
+grapes,healthy
+grapes,healthy
+fries,unhealthy
+cucumber,healthy
+ice cream,unhealthy
+grapes,healthy
+fried fish,unhealthy
+donut,unhealthy
+melon,healthy
+cake,unhealthy
+avocado,healthy
+tomato,healthy
+fried fish,unhealthy
+pasta,unhealthy
+carrot,healthy
+potato chips,unhealthy
+orange,healthy
+grapes,healthy
+chips,unhealthy
+apple,healthy
+avocado,healthy
+peach,healthy
+carrot,healthy
+melon,healthy
+potato chips,unhealthy
+pizza,unhealthy
+fries,unhealthy
+pizza,unhealthy
+candy,unhealthy
+fries,unhealthy
+grapes,healthy
+fries,unhealthy
+kiwi,healthy
+blueberry,healthy
+nachos,unhealthy
+kiwi,healthy
+cookies,unhealthy
+fried fish,unhealthy
+cherries,healthy
+apricot,healthy
+blueberry,healthy
+avocado,healthy
+blueberry,healthy
+cucumber,healthy
+apple,healthy
+pear,healthy
+grapes,healthy
+chips,unhealthy
+cucumber,healthy
+watermelon,healthy
+pizza,unhealthy
+pizza,unhealthy
+energy drink,unhealthy
+strawberry,healthy
+cookies,unhealthy
+potato chips,unhealthy
+cherries,healthy
+broccoli,healthy
+fried chicken,unhealthy
+melon,healthy
+carrot,healthy
+spinach,healthy
+candy,unhealthy
+energy drink,unhealthy
+carrot,healthy
+grapes,healthy
+apple,healthy
+spinach,healthy
+blueberry,healthy
+pizza,unhealthy
+potato chips,unhealthy
+chocolate,unhealthy
+burger,unhealthy
+apricot,healthy
+strawberry,healthy
+donut,unhealthy
+kiwi,healthy
+fried fish,unhealthy
+broccoli,healthy
+spinach,healthy
+blueberry,healthy
+broccoli,healthy
+melon,healthy
+banana,healthy
+melon,healthy
+cucumber,healthy
+apple,healthy
+pear,healthy
+cherries,healthy
+candy,unhealthy
+cake,unhealthy
+chips,unhealthy
+avocado,healthy
+blueberry,healthy
+cake,unhealthy
+spinach,healthy
+apple,healthy
+burger,unhealthy
+pasta,unhealthy
+grapes,healthy
+strawberry,healthy
+pastry,unhealthy
+blueberry,healthy
+broccoli,healthy
+potato chips,unhealthy
+fries,unhealthy
+strawberry,healthy
+soda,unhealthy
+burger,unhealthy
+strawberry,healthy
+nachos,unhealthy
+watermelon,healthy
+cookies,unhealthy
+nachos,unhealthy
+cake,unhealthy
+soda,unhealthy
+strawberry,healthy
+candy bar,unhealthy
+spinach,healthy
+cookies,unhealthy
+grapes,healthy
+energy drink,unhealthy
+energy drink,unhealthy
+mango,healthy
+apple,healthy
+pastry,unhealthy
+apple,healthy
+energy drink,unhealthy
+blueberry,healthy
+apple,healthy
+kiwi,healthy
+kiwi,healthy
+cheese sticks,unhealthy
+carrot,healthy
+fried fish,unhealthy
+pear,healthy
+pizza,unhealthy
+chocolate,unhealthy
+orange,healthy
+broccoli,healthy
+chocolate,unhealthy
+cucumber,healthy
+energy drink,unhealthy
+candy bar,unhealthy
+avocado,healthy
+cherries,healthy
+nachos,unhealthy
+pizza,unhealthy
+potato chips,unhealthy
+cake,unhealthy
+donut,unhealthy
+strawberry,healthy
+potato chips,unhealthy
+cookies,unhealthy
+grapes,healthy
+energy drink,unhealthy
+chocolate,unhealthy
+candy,unhealthy
+grapes,healthy
+grapes,healthy
+pizza,unhealthy
+pear,healthy
+chocolate,unhealthy
+banana,healthy
+broccoli,healthy
+spinach,healthy
+tomato,healthy
+burger,unhealthy
+fried chicken,unhealthy
+melon,healthy
+nachos,unhealthy
+cheese sticks,unhealthy
+orange,healthy
+spinach,healthy
+donut,unhealthy
+cherries,healthy
+blueberry,healthy
+cookies,unhealthy
+grapes,healthy
+melon,healthy
+grapes,healthy
+chips,unhealthy
+pear,healthy
+avocado,healthy
+fried chicken,unhealthy
+banana,healthy
+pasta,unhealthy
+pizza,unhealthy
+strawberry,healthy
+fries,unhealthy
+apple,healthy
+orange,healthy
+kiwi,healthy
+chips,unhealthy
+ice cream,unhealthy
+donut,unhealthy
+banana,healthy
+cucumber,healthy
+cookies,unhealthy
+chocolate,unhealthy
+orange,healthy
+fried fish,unhealthy
+melon,healthy
+strawberry,healthy
+mango,healthy
+burger,unhealthy
+strawberry,healthy
+fried fish,unhealthy
+pasta,unhealthy
+pear,healthy
+soda,unhealthy
+burger,unhealthy
+mango,healthy
+tomato,healthy
+banana,healthy
+cheese sticks,unhealthy
+ice cream,unhealthy
+cucumber,healthy
+potato chips,unhealthy
+fried chicken,unhealthy
+potato chips,unhealthy
+melon,healthy
+nachos,unhealthy
+orange,healthy
+broccoli,healthy
+chips,unhealthy
+cherries,healthy
+pasta,unhealthy
+apple,healthy
+pear,healthy
+fries,unhealthy
+soda,unhealthy
+nachos,unhealthy
+candy,unhealthy
+pastry,unhealthy
+strawberry,healthy
+broccoli,healthy
+nachos,unhealthy
+cucumber,healthy
+ice cream,unhealthy
+cookies,unhealthy
+fries,unhealthy
+spinach,healthy
+fried chicken,unhealthy
+kiwi,healthy
+potato chips,unhealthy
+apricot,healthy
+cheese sticks,unhealthy
+avocado,healthy
+broccoli,healthy
+ice cream,unhealthy
+chocolate,unhealthy
+melon,healthy
+avocado,healthy
+chips,unhealthy
+peach,healthy
+grapes,healthy
+fried fish,unhealthy
+carrot,healthy
+energy drink,unhealthy
+ice cream,unhealthy
+melon,healthy
+fried fish,unhealthy
+spinach,healthy
+kiwi,healthy
+fries,unhealthy
+chocolate,unhealthy
+chips,unhealthy
+cookies,unhealthy
+energy drink,unhealthy
+pear,healthy
+strawberry,healthy
+pizza,unhealthy
+cake,unhealthy
+candy,unhealthy
+cake,unhealthy
+fried fish,unhealthy
+kiwi,healthy
+ice cream,unhealthy
+potato chips,unhealthy
+avocado,healthy
+strawberry,healthy
+fried fish,unhealthy
+ice cream,unhealthy
+peach,healthy
+peach,healthy
+candy,unhealthy
+pasta,unhealthy
+nachos,unhealthy
+cucumber,healthy
+peach,healthy
+spinach,healthy
+fried fish,unhealthy
+donut,unhealthy
+mango,healthy
+pizza,unhealthy
+nachos,unhealthy
+pear,healthy
+avocado,healthy
+broccoli,healthy
+fried fish,unhealthy
+grapes,healthy
+energy drink,unhealthy
+chips,unhealthy
+fried fish,unhealthy
+cucumber,healthy
+pastry,unhealthy
+pasta,unhealthy
+fried fish,unhealthy
+carrot,healthy
+fries,unhealthy
+fried chicken,unhealthy
+pear,healthy
+candy,unhealthy
+pear,healthy
+cake,unhealthy
+cherries,healthy
+cherries,healthy
+cake,unhealthy
+peach,healthy
+nachos,unhealthy
+carrot,healthy
+energy drink,unhealthy
+burger,unhealthy
+cherries,healthy
+pasta,unhealthy
+burger,unhealthy
+pastry,unhealthy
+donut,unhealthy
+cucumber,healthy
+chocolate,unhealthy
+fried chicken,unhealthy
+chips,unhealthy
+strawberry,healthy
+mango,healthy
+spinach,healthy
+candy,unhealthy
+broccoli,healthy
+candy bar,unhealthy
+broccoli,healthy
+fries,unhealthy
+pear,healthy
+energy drink,unhealthy
+chocolate,unhealthy
+cucumber,healthy
+candy bar,unhealthy
+watermelon,healthy
+burger,unhealthy
+cucumber,healthy
+potato chips,unhealthy
+chocolate,unhealthy
+mango,healthy
+grapes,healthy
+donut,unhealthy
+fried fish,unhealthy
+fried fish,unhealthy
+peach,healthy
+broccoli,healthy
+chips,unhealthy
+candy bar,unhealthy
+apple,healthy
+strawberry,healthy
+energy drink,unhealthy
+pastry,unhealthy
+candy bar,unhealthy
+tomato,healthy
+candy,unhealthy
+banana,healthy
+melon,healthy
+apple,healthy
+cake,unhealthy
+strawberry,healthy
+pizza,unhealthy
+chocolate,unhealthy
+soda,unhealthy
+chips,unhealthy
+ice cream,unhealthy
+carrot,healthy
+candy bar,unhealthy
+kiwi,healthy
+nachos,unhealthy
+burger,unhealthy
+soda,unhealthy
+avocado,healthy
+peach,healthy
+strawberry,healthy
+fries,unhealthy
+chips,unhealthy
+fried fish,unhealthy
+pasta,unhealthy
+burger,unhealthy
+spinach,healthy
+orange,healthy
+grapes,healthy
+pastry,unhealthy
+donut,unhealthy
+energy drink,unhealthy
+carrot,healthy
+pear,healthy
+donut,unhealthy
+chocolate,unhealthy
+potato chips,unhealthy
+strawberry,healthy
+melon,healthy
+nachos,unhealthy
+mango,healthy
+mango,healthy
+peach,healthy
+kiwi,healthy
+pizza,unhealthy
+pear,healthy
+apple,healthy
+avocado,healthy
+carrot,healthy
+cookies,unhealthy
+fried chicken,unhealthy
+melon,healthy
+ice cream,unhealthy
+burger,unhealthy
+candy bar,unhealthy
+candy,unhealthy
+nachos,unhealthy
+broccoli,healthy
+apple,healthy
+cherries,healthy
+cookies,unhealthy
+candy bar,unhealthy
+mango,healthy
+burger,unhealthy
+watermelon,healthy
+cake,unhealthy
+grapes,healthy
+chips,unhealthy
+fried fish,unhealthy
+cake,unhealthy
+orange,healthy
+ice cream,unhealthy
+banana,healthy
+pizza,unhealthy
+watermelon,healthy
+kiwi,healthy
+melon,healthy
+cheese sticks,unhealthy
+fries,unhealthy
+chips,unhealthy
+pastry,unhealthy
+fries,unhealthy
+nachos,unhealthy
+tomato,healthy
+fried chicken,unhealthy
+potato chips,unhealthy
+cherries,healthy
+pizza,unhealthy
+spinach,healthy
+donut,unhealthy
+grapes,healthy
+cucumber,healthy
+chips,unhealthy
+cucumber,healthy
+broccoli,healthy
+grapes,healthy
+apricot,healthy
+apple,healthy
+avocado,healthy
+ice cream,unhealthy
+melon,healthy
+candy bar,unhealthy
+chips,unhealthy
+orange,healthy
+orange,healthy
+potato chips,unhealthy
+chips,unhealthy
+melon,healthy
+apricot,healthy
+cake,unhealthy
+cake,unhealthy
+strawberry,healthy
+avocado,healthy
+donut,unhealthy
+pear,healthy
+cookies,unhealthy
+ice cream,unhealthy
+nachos,unhealthy
+apricot,healthy
+cucumber,healthy
+kiwi,healthy
+pear,healthy
+tomato,healthy
+broccoli,healthy
+soda,unhealthy
+soda,unhealthy
+burger,unhealthy
+tomato,healthy
+apple,healthy
+apricot,healthy
+avocado,healthy
+donut,unhealthy
+cheese sticks,unhealthy
+carrot,healthy
+energy drink,unhealthy
+pear,healthy
+cucumber,healthy
+potato chips,unhealthy
+candy,unhealthy
+potato chips,unhealthy
+watermelon,healthy
+soda,unhealthy
+tomato,healthy
+chocolate,unhealthy
+banana,healthy
+melon,healthy
+pizza,unhealthy
+spinach,healthy
+kiwi,healthy
+chips,unhealthy
+potato chips,unhealthy
+banana,healthy
+cake,unhealthy
+cherries,healthy
+peach,healthy
+cookies,unhealthy
+potato chips,unhealthy
+watermelon,healthy
+potato chips,unhealthy
+pasta,unhealthy
+donut,unhealthy
+ice cream,unhealthy
+pizza,unhealthy
+cake,unhealthy
+fried fish,unhealthy
+blueberry,healthy
+nachos,unhealthy
+orange,healthy
+cookies,unhealthy
+candy,unhealthy
+fried chicken,unhealthy
+cucumber,healthy
+chips,unhealthy
+donut,unhealthy
+cherries,healthy
+fries,unhealthy
+kiwi,healthy
+pasta,unhealthy
+cucumber,healthy
+pizza,unhealthy
+potato chips,unhealthy
+fried chicken,unhealthy
+banana,healthy
+potato chips,unhealthy
+pear,healthy
+candy,unhealthy
+burger,unhealthy
+chocolate,unhealthy
+mango,healthy
+cookies,unhealthy
+fried fish,unhealthy
+peach,healthy
+grapes,healthy
+melon,healthy
+pasta,unhealthy
+chocolate,unhealthy
+peach,healthy
+donut,unhealthy
+orange,healthy
+ice cream,unhealthy
+cake,unhealthy
+donut,unhealthy
+cookies,unhealthy
+pizza,unhealthy
+donut,unhealthy
+candy bar,unhealthy
+donut,unhealthy
+cheese sticks,unhealthy
+potato chips,unhealthy
+cucumber,healthy
+grapes,healthy
+melon,healthy
+cheese sticks,unhealthy
+peach,healthy
+orange,healthy
+potato chips,unhealthy
+grapes,healthy
+pizza,unhealthy
+pastry,unhealthy
+watermelon,healthy
+pasta,unhealthy
+grapes,healthy
+candy bar,unhealthy
+peach,healthy
+pastry,unhealthy
+energy drink,unhealthy
+cherries,healthy
+blueberry,healthy
+chips,unhealthy
+carrot,healthy
+ice cream,unhealthy
+candy bar,unhealthy
+fried fish,unhealthy
+spinach,healthy
+pasta,unhealthy
+fries,unhealthy
+peach,healthy
+tomato,healthy
+donut,unhealthy
+burger,unhealthy
+potato chips,unhealthy
+pastry,unhealthy
+fries,unhealthy
+fries,unhealthy
+candy,unhealthy
+banana,healthy
+energy drink,unhealthy
+pear,healthy
+tomato,healthy
+carrot,healthy
+fried chicken,unhealthy
+mango,healthy
+energy drink,unhealthy
+blueberry,healthy
+blueberry,healthy
+chocolate,unhealthy
+cucumber,healthy
+broccoli,healthy
+broccoli,healthy
+melon,healthy
+orange,healthy
+candy bar,unhealthy
+carrot,healthy
+pear,healthy
+ice cream,unhealthy
+soda,unhealthy
+fried fish,unhealthy
+candy,unhealthy
+strawberry,healthy
+blueberry,healthy
+tomato,healthy
+watermelon,healthy
+burger,unhealthy
+candy,unhealthy
+mango,healthy
+ice cream,unhealthy
+candy,unhealthy
+grapes,healthy
+cookies,unhealthy
+potato chips,unhealthy
+carrot,healthy
+carrot,healthy
+banana,healthy
+fried chicken,unhealthy
+chocolate,unhealthy
+cucumber,healthy
+burger,unhealthy
+energy drink,unhealthy
+tomato,healthy
+energy drink,unhealthy
+candy,unhealthy
+strawberry,healthy
+banana,healthy
+fried chicken,unhealthy
+soda,unhealthy
+watermelon,healthy
+cake,unhealthy
+nachos,unhealthy
+blueberry,healthy
+chips,unhealthy
+strawberry,healthy
+candy bar,unhealthy
+avocado,healthy
+cookies,unhealthy
+pasta,unhealthy
+watermelon,healthy
+cheese sticks,unhealthy
+blueberry,healthy
+nachos,unhealthy
+chocolate,unhealthy
+pizza,unhealthy
+candy bar,unhealthy
+broccoli,healthy
+energy drink,unhealthy
+donut,unhealthy
+spinach,healthy
+cucumber,healthy
+melon,healthy
+avocado,healthy
+mango,healthy
+fries,unhealthy
+pizza,unhealthy
+fried fish,unhealthy
+pastry,unhealthy
+pasta,unhealthy
+cucumber,healthy
+nachos,unhealthy
+watermelon,healthy
+ice cream,unhealthy
+melon,healthy
+orange,healthy
+kiwi,healthy
+nachos,unhealthy
+pastry,unhealthy
+pasta,unhealthy
+cheese sticks,unhealthy
+cherries,healthy
+cake,unhealthy
+blueberry,healthy
+spinach,healthy
+apple,healthy
+cherries,healthy
+cherries,healthy
+cheese sticks,unhealthy
+orange,healthy
+grapes,healthy
+kiwi,healthy
+spinach,healthy
+banana,healthy
+chocolate,unhealthy
+blueberry,healthy
+potato chips,unhealthy
+pasta,unhealthy
+chocolate,unhealthy
+spinach,healthy
+mango,healthy
+nachos,unhealthy
+apricot,healthy
+soda,unhealthy
+soda,unhealthy
+mango,healthy
+pear,healthy
+orange,healthy
+cookies,unhealthy
+cake,unhealthy
+pear,healthy
+cake,unhealthy
+melon,healthy
+blueberry,healthy
+spinach,healthy
+fried fish,unhealthy
+cake,unhealthy
+pear,healthy
+carrot,healthy
+cake,unhealthy
+banana,healthy
+strawberry,healthy
+energy drink,unhealthy
+pear,healthy
+watermelon,healthy
+avocado,healthy
+banana,healthy
+orange,healthy
+pear,healthy
+melon,healthy
+pasta,unhealthy
+avocado,healthy
+mango,healthy
+blueberry,healthy
+chips,unhealthy
+orange,healthy
+nachos,unhealthy
+pasta,unhealthy
+fried chicken,unhealthy
+peach,healthy
+burger,unhealthy
+burger,unhealthy
+chocolate,unhealthy
+spinach,healthy
+donut,unhealthy
+avocado,healthy
+cheese sticks,unhealthy
+burger,unhealthy
+broccoli,healthy
+orange,healthy
+strawberry,healthy
+broccoli,healthy
+chips,unhealthy
+chips,unhealthy
+orange,healthy
+fried chicken,unhealthy
+candy bar,unhealthy
+potato chips,unhealthy
+spinach,healthy
+melon,healthy
+broccoli,healthy
+blueberry,healthy
+avocado,healthy
+broccoli,healthy
+banana,healthy
+soda,unhealthy
+blueberry,healthy
+chocolate,unhealthy
+soda,unhealthy
+nachos,unhealthy
+cookies,unhealthy
+fried chicken,unhealthy
+apricot,healthy
+banana,healthy
+pastry,unhealthy
+melon,healthy
+grapes,healthy
+strawberry,healthy
+carrot,healthy
+carrot,healthy
+melon,healthy
+grapes,healthy
+candy bar,unhealthy
+watermelon,healthy
+fried chicken,unhealthy
+chocolate,unhealthy
+strawberry,healthy
+mango,healthy
+fried fish,unhealthy
+mango,healthy
+pastry,unhealthy
+donut,unhealthy
+ice cream,unhealthy
+soda,unhealthy
+ice cream,unhealthy
+cheese sticks,unhealthy
+fried fish,unhealthy
+kiwi,healthy
+nachos,unhealthy
+peach,healthy
+peach,healthy
+spinach,healthy
+spinach,healthy
+pear,healthy
+chips,unhealthy
+pasta,unhealthy
+pasta,unhealthy
+cherries,healthy
+ice cream,unhealthy
+mango,healthy
+candy,unhealthy
+burger,unhealthy
+candy bar,unhealthy
+fried chicken,unhealthy
+fried fish,unhealthy
+avocado,healthy
+nachos,unhealthy
+candy bar,unhealthy
+pear,healthy
+burger,unhealthy
+cucumber,healthy
+fries,unhealthy
+fried fish,unhealthy
+chocolate,unhealthy
+chips,unhealthy
+broccoli,healthy
+apple,healthy
+avocado,healthy
+apple,healthy
+grapes,healthy
+fried chicken,unhealthy
+cheese sticks,unhealthy
+grapes,healthy
+fried chicken,unhealthy
+carrot,healthy
+cake,unhealthy
+nachos,unhealthy
+watermelon,healthy
+chocolate,unhealthy
+fried chicken,unhealthy
+fried chicken,unhealthy
+potato chips,unhealthy
+candy bar,unhealthy
+nachos,unhealthy
+apple,healthy
+candy,unhealthy
+soda,unhealthy
+ice cream,unhealthy
+banana,healthy
+fried fish,unhealthy
+avocado,healthy
+candy bar,unhealthy
+strawberry,healthy
+cherries,healthy
+tomato,healthy
+blueberry,healthy
+strawberry,healthy
+cheese sticks,unhealthy
+cucumber,healthy
+nachos,unhealthy
+peach,healthy
+mango,healthy
+banana,healthy
+watermelon,healthy
+grapes,healthy
+pizza,unhealthy
+burger,unhealthy
+peach,healthy
+fried fish,unhealthy
+cherries,healthy
+pear,healthy
+tomato,healthy
+watermelon,healthy
+cheese sticks,unhealthy
+pasta,unhealthy
+apricot,healthy
+apricot,healthy
+fried fish,unhealthy
+apricot,healthy
+grapes,healthy
+tomato,healthy
+candy,unhealthy
+energy drink,unhealthy
+pear,healthy
+chocolate,unhealthy
+spinach,healthy
+cucumber,healthy
+pizza,unhealthy
+pastry,unhealthy
+orange,healthy
+watermelon,healthy
+spinach,healthy
+mango,healthy
+avocado,healthy
+cake,unhealthy
+fried chicken,unhealthy
+candy bar,unhealthy
+chocolate,unhealthy
+cookies,unhealthy
+cherries,healthy
+grapes,healthy
+melon,healthy
+pear,healthy
+carrot,healthy
+apple,healthy
+candy bar,unhealthy
+pizza,unhealthy
+kiwi,healthy
+spinach,healthy
+banana,healthy
+fried fish,unhealthy
+pasta,unhealthy
+ice cream,unhealthy
+fried chicken,unhealthy
+avocado,healthy
+grapes,healthy
+burger,unhealthy
+pasta,unhealthy
+potato chips,unhealthy
+pear,healthy
+apple,healthy
+banana,healthy
+potato chips,unhealthy
+apple,healthy
+chips,unhealthy
+pear,healthy
+nachos,unhealthy
+fried chicken,unhealthy
+cake,unhealthy
+orange,healthy
+peach,healthy
+melon,healthy
+apple,healthy
+pastry,unhealthy
+strawberry,healthy
+pizza,unhealthy
+melon,healthy
+apple,healthy
+ice cream,unhealthy
+candy bar,unhealthy
+soda,unhealthy
+nachos,unhealthy
+mango,healthy
+peach,healthy
+watermelon,healthy
+potato chips,unhealthy
+mango,healthy
+cookies,unhealthy
+broccoli,healthy
+carrot,healthy
+peach,healthy
+apple,healthy
+pear,healthy
+candy,unhealthy
+nachos,unhealthy
+blueberry,healthy
+cherries,healthy
+grapes,healthy
+cucumber,healthy
+energy drink,unhealthy
+potato chips,unhealthy
+banana,healthy
+energy drink,unhealthy
+potato chips,unhealthy
+ice cream,unhealthy
+nachos,unhealthy
+potato chips,unhealthy
+apple,healthy
+ice cream,unhealthy
+broccoli,healthy
+cucumber,healthy
+pastry,unhealthy
+tomato,healthy
+burger,unhealthy
+chips,unhealthy
+kiwi,healthy
+candy bar,unhealthy
+pear,healthy
+candy,unhealthy
+fried chicken,unhealthy
+fries,unhealthy
+burger,unhealthy
+strawberry,healthy
+donut,unhealthy
+watermelon,healthy
+potato chips,unhealthy
+orange,healthy
+potato chips,unhealthy
+fried chicken,unhealthy
+donut,unhealthy
+soda,unhealthy
+tomato,healthy
+peach,healthy
+watermelon,healthy
+pasta,unhealthy
+carrot,healthy
+chips,unhealthy
+strawberry,healthy
+grapes,healthy
+cookies,unhealthy
+ice cream,unhealthy
+candy bar,unhealthy
+potato chips,unhealthy
+ice cream,unhealthy
+cucumber,healthy
+grapes,healthy
+fried chicken,unhealthy
+candy,unhealthy
+spinach,healthy
+mango,healthy
+cake,unhealthy
+orange,healthy
+carrot,healthy
+pastry,unhealthy
+burger,unhealthy
+pasta,unhealthy
+fried fish,unhealthy
+mango,healthy
+potato chips,unhealthy
+ice cream,unhealthy
+apple,healthy
+pastry,unhealthy
+carrot,healthy
+fried chicken,unhealthy
+cherries,healthy
+cookies,unhealthy
+apricot,healthy
+watermelon,healthy
+watermelon,healthy
+ice cream,unhealthy
+burger,unhealthy
+pasta,unhealthy
+orange,healthy
+pasta,unhealthy
+chips,unhealthy
+tomato,healthy
+avocado,healthy
+pizza,unhealthy
+apricot,healthy
+chips,unhealthy
+watermelon,healthy
+ice cream,unhealthy
+cake,unhealthy
+banana,healthy
+candy,unhealthy
+chocolate,unhealthy
+apricot,healthy
+tomato,healthy
+cherries,healthy
+candy bar,unhealthy
+pear,healthy
+pear,healthy
+burger,unhealthy
+apricot,healthy
+burger,unhealthy
+pear,healthy
+peach,healthy
+candy bar,unhealthy
+fried fish,unhealthy
+cucumber,healthy
+cheese sticks,unhealthy
+pasta,unhealthy
+tomato,healthy
+cheese sticks,unhealthy
+soda,unhealthy
+spinach,healthy
+cake,unhealthy
+blueberry,healthy
+burger,unhealthy
+orange,healthy
+watermelon,healthy
+cookies,unhealthy
+fried fish,unhealthy
+carrot,healthy
+pasta,unhealthy
+donut,unhealthy
+candy bar,unhealthy
+blueberry,healthy
+fried chicken,unhealthy
+apricot,healthy
+chocolate,unhealthy
+spinach,healthy
+donut,unhealthy
+melon,healthy
+spinach,healthy
+fried fish,unhealthy
+carrot,healthy
+fried fish,unhealthy
+spinach,healthy
+melon,healthy
+energy drink,unhealthy
+burger,unhealthy
+blueberry,healthy
+spinach,healthy
+pear,healthy
+pear,healthy
+fried fish,unhealthy
+nachos,unhealthy
+spinach,healthy
+cucumber,healthy
+donut,unhealthy
+cheese sticks,unhealthy
+nachos,unhealthy
+carrot,healthy
+fried fish,unhealthy
+fried chicken,unhealthy
+watermelon,healthy
+broccoli,healthy
+orange,healthy
+melon,healthy
+pasta,unhealthy
+fried fish,unhealthy
+chips,unhealthy
+candy bar,unhealthy
+pear,healthy
+tomato,healthy
+apricot,healthy
+energy drink,unhealthy
+pear,healthy
+spinach,healthy
+apricot,healthy
+tomato,healthy
+donut,unhealthy
+pear,healthy
+candy bar,unhealthy
+chocolate,unhealthy
+cucumber,healthy
+fries,unhealthy
+strawberry,healthy
+carrot,healthy
+fried fish,unhealthy
+cake,unhealthy
+pizza,unhealthy
+candy bar,unhealthy
+banana,healthy
+burger,unhealthy
+banana,healthy
+orange,healthy
+cheese sticks,unhealthy
+candy,unhealthy
+melon,healthy
+burger,unhealthy
+blueberry,healthy
+spinach,healthy
+chocolate,unhealthy
+kiwi,healthy
+spinach,healthy
+watermelon,healthy
+banana,healthy
+spinach,healthy
+cherries,healthy
+cookies,unhealthy
+melon,healthy
+cake,unhealthy
+broccoli,healthy
+fries,unhealthy
+pear,healthy
+peach,healthy
+energy drink,unhealthy
+chips,unhealthy
+mango,healthy
+pasta,unhealthy
+chocolate,unhealthy
+donut,unhealthy
+apricot,healthy
+mango,healthy
+apricot,healthy
+broccoli,healthy
+cookies,unhealthy
+energy drink,unhealthy
+burger,unhealthy
+burger,unhealthy
+kiwi,healthy
+apricot,healthy
+mango,healthy
+pizza,unhealthy
+nachos,unhealthy
+cherries,healthy
+watermelon,healthy
+cake,unhealthy
+cookies,unhealthy
+chips,unhealthy
+peach,healthy
+peach,healthy
+carrot,healthy
+watermelon,healthy
+avocado,healthy
+candy,unhealthy
+fries,unhealthy
+fried fish,unhealthy
+apricot,healthy
+candy,unhealthy
+apple,healthy
+soda,unhealthy
+pizza,unhealthy
+banana,healthy
+cucumber,healthy
+donut,unhealthy
+apple,healthy
+mango,healthy
+chocolate,unhealthy
+watermelon,healthy
+fried chicken,unhealthy
+cherries,healthy
+grapes,healthy
+nachos,unhealthy
+broccoli,healthy
+cookies,unhealthy
+grapes,healthy
+fried chicken,unhealthy
+banana,healthy
+broccoli,healthy
+potato chips,unhealthy
+donut,unhealthy
+fried chicken,unhealthy
+grapes,healthy
+cherries,healthy
+carrot,healthy
+energy drink,unhealthy
+pear,healthy
+pastry,unhealthy
+fries,unhealthy
+avocado,healthy
+pear,healthy
+spinach,healthy
+pizza,unhealthy
+blueberry,healthy
+soda,unhealthy
+fried fish,unhealthy
+cucumber,healthy
+pastry,unhealthy
+broccoli,healthy
+pastry,unhealthy
+orange,healthy
+spinach,healthy
+grapes,healthy
+cherries,healthy
+cherries,healthy
+strawberry,healthy
+fried fish,unhealthy
+pastry,unhealthy
+pasta,unhealthy
+cookies,unhealthy
+strawberry,healthy
+watermelon,healthy
+pastry,unhealthy
+avocado,healthy
+orange,healthy
+soda,unhealthy
+peach,healthy
+peach,healthy
+chocolate,unhealthy
+melon,healthy
+tomato,healthy
+fries,unhealthy
+cookies,unhealthy
+spinach,healthy
+donut,unhealthy
+cucumber,healthy
+cucumber,healthy
+chocolate,unhealthy
+fried fish,unhealthy
+kiwi,healthy
+peach,healthy
+donut,unhealthy
+potato chips,unhealthy
+tomato,healthy
+avocado,healthy
+pastry,unhealthy
+watermelon,healthy
+mango,healthy
+peach,healthy
+candy bar,unhealthy
+carrot,healthy
+pasta,unhealthy
+potato chips,unhealthy
+cherries,healthy
+tomato,healthy
+broccoli,healthy
+pizza,unhealthy
+pasta,unhealthy
+broccoli,healthy
+grapes,healthy
+apricot,healthy
+apricot,healthy
+candy bar,unhealthy
+kiwi,healthy
+fried fish,unhealthy
+peach,healthy
+carrot,healthy
+apple,healthy
+broccoli,healthy
+candy,unhealthy
+chocolate,unhealthy
+strawberry,healthy
+candy bar,unhealthy
+pasta,unhealthy
+soda,unhealthy
+ice cream,unhealthy
+energy drink,unhealthy
+nachos,unhealthy
+pizza,unhealthy
+chocolate,unhealthy
+pear,healthy
+watermelon,healthy
+apple,healthy
+fries,unhealthy
+orange,healthy
+soda,unhealthy
+cookies,unhealthy
+chocolate,unhealthy
+orange,healthy
+cherries,healthy
+tomato,healthy
+donut,unhealthy
+broccoli,healthy
+ice cream,unhealthy
+chips,unhealthy
+pastry,unhealthy
+fried chicken,unhealthy
+spinach,healthy
+watermelon,healthy
+candy bar,unhealthy
+apricot,healthy
+energy drink,unhealthy
+cucumber,healthy
+candy,unhealthy
+mango,healthy
+potato chips,unhealthy
+pasta,unhealthy
+soda,unhealthy
+burger,unhealthy
+fries,unhealthy
+pasta,unhealthy
+fries,unhealthy
+chocolate,unhealthy
+melon,healthy
+avocado,healthy
+fries,unhealthy
+pizza,unhealthy
+orange,healthy
+tomato,healthy
+cake,unhealthy
+candy,unhealthy
+cake,unhealthy
+fries,unhealthy
+peach,healthy
+cake,unhealthy
+fried chicken,unhealthy
+peach,healthy
+cheese sticks,unhealthy
+cherries,healthy
+melon,healthy
+cheese sticks,unhealthy
+nachos,unhealthy
+tomato,healthy
+broccoli,healthy
+cookies,unhealthy
+tomato,healthy
+carrot,healthy
+carrot,healthy
+tomato,healthy
+banana,healthy
+cake,unhealthy
+cheese sticks,unhealthy
+candy bar,unhealthy
+pizza,unhealthy
+soda,unhealthy
+candy,unhealthy
+avocado,healthy
+grapes,healthy
+fried fish,unhealthy
+fried fish,unhealthy
+apple,healthy
+candy bar,unhealthy
+orange,healthy
+blueberry,healthy
+pastry,unhealthy
+pear,healthy
+burger,unhealthy
+pasta,unhealthy
+strawberry,healthy
+apricot,healthy
+soda,unhealthy
+strawberry,healthy
+orange,healthy
+soda,unhealthy
+kiwi,healthy
+fried chicken,unhealthy
+banana,healthy
+banana,healthy
+cookies,unhealthy
+orange,healthy
+pear,healthy
+pizza,unhealthy
+chocolate,unhealthy
+soda,unhealthy
+grapes,healthy
+apricot,healthy
+chips,unhealthy
+ice cream,unhealthy
+candy,unhealthy
+melon,healthy
+cucumber,healthy
+pizza,unhealthy
+potato chips,unhealthy
+pasta,unhealthy
+pizza,unhealthy
+pastry,unhealthy
+mango,healthy
+peach,healthy
+chips,unhealthy
+broccoli,healthy
+cookies,unhealthy
+pasta,unhealthy
+apple,healthy
+chocolate,unhealthy
+pasta,unhealthy
+candy bar,unhealthy
+fried chicken,unhealthy
+soda,unhealthy
+chips,unhealthy
+cookies,unhealthy
+fried fish,unhealthy
+nachos,unhealthy
+candy,unhealthy
+spinach,healthy
+mango,healthy
+candy,unhealthy
+ice cream,unhealthy
+broccoli,healthy
+strawberry,healthy
+fries,unhealthy
+apricot,healthy
+blueberry,healthy
+banana,healthy
+fries,unhealthy
+chips,unhealthy
+candy bar,unhealthy
+strawberry,healthy
+peach,healthy
+fries,unhealthy
+chips,unhealthy
+blueberry,healthy
+grapes,healthy
+carrot,healthy
+energy drink,unhealthy
+pizza,unhealthy
+candy bar,unhealthy
+spinach,healthy
+spinach,healthy
+nachos,unhealthy
+cherries,healthy
+donut,unhealthy
+apple,healthy
+kiwi,healthy
+pastry,unhealthy
+cookies,unhealthy
+fried fish,unhealthy
+cherries,healthy
+tomato,healthy
+fried chicken,unhealthy
+mango,healthy
+peach,healthy
+donut,unhealthy
+nachos,unhealthy
+soda,unhealthy
+melon,healthy
+cake,unhealthy
+pear,healthy
+chocolate,unhealthy
+fries,unhealthy
+orange,healthy
+spinach,healthy
+broccoli,healthy
+orange,healthy
+chips,unhealthy
+watermelon,healthy
+kiwi,healthy
+chips,unhealthy
+carrot,healthy
+banana,healthy
+mango,healthy
+soda,unhealthy
+pear,healthy
+watermelon,healthy
+avocado,healthy
+banana,healthy
+candy bar,unhealthy
+carrot,healthy
+fried fish,unhealthy
+cherries,healthy
+chips,unhealthy
+potato chips,unhealthy
+burger,unhealthy
+peach,healthy
+soda,unhealthy
+candy bar,unhealthy
+fried fish,unhealthy
+cheese sticks,unhealthy
+spinach,healthy
+cucumber,healthy
+pasta,unhealthy
+spinach,healthy
+broccoli,healthy
+apricot,healthy
+fried chicken,unhealthy
+energy drink,unhealthy
+melon,healthy
+fried fish,unhealthy
+candy,unhealthy
+peach,healthy
+mango,healthy
+cucumber,healthy
+avocado,healthy
+orange,healthy
+mango,healthy
+spinach,healthy
+spinach,healthy
+melon,healthy
+cake,unhealthy
+pear,healthy
+mango,healthy
+melon,healthy
+chocolate,unhealthy
+peach,healthy
+energy drink,unhealthy
+tomato,healthy
+melon,healthy
+cherries,healthy
+soda,unhealthy
+cake,unhealthy
+melon,healthy
+avocado,healthy
+cake,unhealthy
+watermelon,healthy
+pasta,unhealthy
+pastry,unhealthy
+candy,unhealthy
+pastry,unhealthy
+banana,healthy
+melon,healthy
+cherries,healthy
+grapes,healthy
+fried fish,unhealthy
+melon,healthy
+apple,healthy
+donut,unhealthy
+cherries,healthy
+soda,unhealthy
+cookies,unhealthy
+avocado,healthy
+candy,unhealthy
+fries,unhealthy
+avocado,healthy
+cucumber,healthy
+avocado,healthy
+watermelon,healthy
+blueberry,healthy
+blueberry,healthy
+apricot,healthy
+peach,healthy
+nachos,unhealthy
+candy bar,unhealthy
+chips,unhealthy
+pear,healthy
+melon,healthy
+tomato,healthy
+fries,unhealthy
+potato chips,unhealthy
+strawberry,healthy
+pizza,unhealthy
+pear,healthy
+cake,unhealthy
+pear,healthy
+cheese sticks,unhealthy
+kiwi,healthy
+nachos,unhealthy
+watermelon,healthy
+energy drink,unhealthy
+blueberry,healthy
+cookies,unhealthy
+burger,unhealthy
+blueberry,healthy
+mango,healthy
+mango,healthy
+cookies,unhealthy
+fried chicken,unhealthy
+fries,unhealthy
+chips,unhealthy
+spinach,healthy
+blueberry,healthy
+mango,healthy
+cherries,healthy
+banana,healthy
+burger,unhealthy
+fried fish,unhealthy
+orange,healthy
+pasta,unhealthy
+candy,unhealthy
+avocado,healthy
+grapes,healthy
+candy,unhealthy
+candy,unhealthy
+chocolate,unhealthy
+spinach,healthy
+candy bar,unhealthy
+potato chips,unhealthy
+potato chips,unhealthy
+apple,healthy
+potato chips,unhealthy
+cookies,unhealthy
+cookies,unhealthy
+mango,healthy
+broccoli,healthy
+chocolate,unhealthy
+chips,unhealthy
+banana,healthy
+cookies,unhealthy
+pasta,unhealthy
+cheese sticks,unhealthy
+fried chicken,unhealthy
+orange,healthy
+cherries,healthy
+apricot,healthy
+soda,unhealthy
+orange,healthy
+banana,healthy
+orange,healthy
+donut,unhealthy
+apple,healthy
+ice cream,unhealthy
+pasta,unhealthy
+kiwi,healthy
+orange,healthy
+kiwi,healthy
+cheese sticks,unhealthy
+fries,unhealthy
+chocolate,unhealthy
+soda,unhealthy
+kiwi,healthy
+watermelon,healthy
+carrot,healthy
+peach,healthy
+cookies,unhealthy
+orange,healthy
+kiwi,healthy
+melon,healthy
+carrot,healthy
+chocolate,unhealthy
+chips,unhealthy
+mango,healthy
+watermelon,healthy
+peach,healthy
+fried fish,unhealthy
+cherries,healthy
+cucumber,healthy
+watermelon,healthy
+cookies,unhealthy
+candy bar,unhealthy
+blueberry,healthy
+melon,healthy
+tomato,healthy
+pastry,unhealthy
+kiwi,healthy
+orange,healthy
+spinach,healthy
+candy bar,unhealthy
+mango,healthy
+fried chicken,unhealthy
+pear,healthy
+energy drink,unhealthy
+blueberry,healthy
+avocado,healthy
+cheese sticks,unhealthy
+pear,healthy
+cherries,healthy
+watermelon,healthy
+pizza,unhealthy
+fried fish,unhealthy
+nachos,unhealthy
+melon,healthy
+cookies,unhealthy
+donut,unhealthy
+pizza,unhealthy
+blueberry,healthy
+mango,healthy
+peach,healthy
+potato chips,unhealthy
+burger,unhealthy
+pear,healthy
+fried fish,unhealthy
+potato chips,unhealthy
+pasta,unhealthy
+pastry,unhealthy
+fried fish,unhealthy
+potato chips,unhealthy
+fries,unhealthy
+melon,healthy
+potato chips,unhealthy
+candy bar,unhealthy
+kiwi,healthy
+spinach,healthy
+tomato,healthy
+blueberry,healthy
+burger,unhealthy
+energy drink,unhealthy
+soda,unhealthy
+candy bar,unhealthy
+energy drink,unhealthy
+peach,healthy
+potato chips,unhealthy
+pastry,unhealthy
+mango,healthy
+strawberry,healthy
+avocado,healthy
+energy drink,unhealthy
+carrot,healthy
+cucumber,healthy
+spinach,healthy
+pear,healthy
+melon,healthy
+fried chicken,unhealthy
+cherries,healthy
+apricot,healthy
+tomato,healthy
+kiwi,healthy
+candy,unhealthy
+cake,unhealthy
+orange,healthy
+ice cream,unhealthy
+orange,healthy
+cookies,unhealthy
+cake,unhealthy
+candy bar,unhealthy
+cucumber,healthy
+spinach,healthy
+strawberry,healthy
+carrot,healthy
+cucumber,healthy
+pasta,unhealthy
+tomato,healthy
+cookies,unhealthy
+cucumber,healthy
+melon,healthy
+donut,unhealthy
+cherries,healthy
+tomato,healthy
+apricot,healthy
+fried chicken,unhealthy
+ice cream,unhealthy
+nachos,unhealthy
+grapes,healthy
+cookies,unhealthy
+soda,unhealthy
+burger,unhealthy
+candy,unhealthy
+chips,unhealthy
+chocolate,unhealthy
+cake,unhealthy
+spinach,healthy
+avocado,healthy
+pear,healthy
+carrot,healthy
+strawberry,healthy
+fried fish,unhealthy
+pear,healthy
+pastry,unhealthy
+grapes,healthy
+donut,unhealthy
+donut,unhealthy
+peach,healthy
+energy drink,unhealthy
+blueberry,healthy
+chocolate,unhealthy
+donut,unhealthy
+chocolate,unhealthy
+watermelon,healthy
+chocolate,unhealthy
+candy bar,unhealthy
+avocado,healthy
+chocolate,unhealthy
+peach,healthy
+carrot,healthy
+burger,unhealthy
+watermelon,healthy
+energy drink,unhealthy
+fries,unhealthy
+fried fish,unhealthy
+fried chicken,unhealthy
+melon,healthy
+candy,unhealthy
+nachos,unhealthy
+cheese sticks,unhealthy
+pizza,unhealthy
+soda,unhealthy
+cookies,unhealthy
+blueberry,healthy
+chocolate,unhealthy
+broccoli,healthy
+peach,healthy
+blueberry,healthy
+apricot,healthy
+cheese sticks,unhealthy
+pear,healthy
+apple,healthy
+energy drink,unhealthy
+carrot,healthy
+ice cream,unhealthy
+donut,unhealthy
+ice cream,unhealthy
+cake,unhealthy
+tomato,healthy
+fried chicken,unhealthy
+grapes,healthy
+chocolate,unhealthy
+cheese sticks,unhealthy
+potato chips,unhealthy
+donut,unhealthy
+nachos,unhealthy
+donut,unhealthy
+watermelon,healthy
+cucumber,healthy
+fries,unhealthy
+pizza,unhealthy
+ice cream,unhealthy
+kiwi,healthy
+mango,healthy
+pear,healthy
+cookies,unhealthy
+kiwi,healthy
+strawberry,healthy
+blueberry,healthy
+chocolate,unhealthy
+apple,healthy
+broccoli,healthy
+apricot,healthy
+blueberry,healthy
+chips,unhealthy
+candy,unhealthy
+potato chips,unhealthy
+soda,unhealthy
+cucumber,healthy
+cookies,unhealthy
+peach,healthy
+tomato,healthy
+apricot,healthy
+energy drink,unhealthy
+mango,healthy
+banana,healthy
+broccoli,healthy
+nachos,unhealthy
+chips,unhealthy
+fried chicken,unhealthy
+candy,unhealthy
+chocolate,unhealthy
+chips,unhealthy
+broccoli,healthy
+mango,healthy
+cheese sticks,unhealthy
+orange,healthy
+grapes,healthy
+candy,unhealthy
+donut,unhealthy
+orange,healthy
+banana,healthy
+apple,healthy
+candy,unhealthy
+ice cream,unhealthy
+avocado,healthy
+strawberry,healthy
+chocolate,unhealthy
+soda,unhealthy
+cookies,unhealthy
+chips,unhealthy
+burger,unhealthy
+nachos,unhealthy
+cherries,healthy
+apricot,healthy
+pizza,unhealthy
+soda,unhealthy
+cherries,healthy
+peach,healthy
+tomato,healthy
+orange,healthy
+peach,healthy
+banana,healthy
+strawberry,healthy
+cookies,unhealthy
+ice cream,unhealthy
+blueberry,healthy
+orange,healthy
+chips,unhealthy
+orange,healthy
+chocolate,unhealthy
+fried chicken,unhealthy
+energy drink,unhealthy
+mango,healthy
+potato chips,unhealthy
+broccoli,healthy
+watermelon,healthy
+cheese sticks,unhealthy
+pear,healthy
+energy drink,unhealthy
+blueberry,healthy
+apple,healthy
+apricot,healthy
+apple,healthy
+fried chicken,unhealthy
+avocado,healthy
+pastry,unhealthy
+cheese sticks,unhealthy
+fried fish,unhealthy
+soda,unhealthy
+chips,unhealthy
+broccoli,healthy
+candy,unhealthy
+cake,unhealthy
+mango,healthy
+ice cream,unhealthy
+energy drink,unhealthy
+tomato,healthy
+apricot,healthy
+chips,unhealthy
+burger,unhealthy
+donut,unhealthy
+ice cream,unhealthy
+pizza,unhealthy
+donut,unhealthy
+burger,unhealthy
+potato chips,unhealthy
+cheese sticks,unhealthy
+candy bar,unhealthy
+chocolate,unhealthy
+chocolate,unhealthy
+tomato,healthy
+candy bar,unhealthy
+banana,healthy
+donut,unhealthy
+cucumber,healthy
+burger,unhealthy
+fries,unhealthy
+cherries,healthy
+pear,healthy
+apple,healthy
+ice cream,unhealthy
+broccoli,healthy
+cucumber,healthy
+broccoli,healthy
+broccoli,healthy
+grapes,healthy
+burger,unhealthy
+pizza,unhealthy
+grapes,healthy
+donut,unhealthy
+soda,unhealthy
+cucumber,healthy
+nachos,unhealthy
+cherries,healthy
+cherries,healthy
+apple,healthy
+chocolate,unhealthy
+donut,unhealthy
+candy bar,unhealthy
+ice cream,unhealthy
+energy drink,unhealthy
+candy,unhealthy
+mango,healthy
+mango,healthy
+chips,unhealthy
+apple,healthy
+pasta,unhealthy
+fries,unhealthy
+strawberry,healthy
+ice cream,unhealthy
+candy bar,unhealthy
+donut,unhealthy
+chips,unhealthy
+cherries,healthy
+fried fish,unhealthy
+apple,healthy
+spinach,healthy
+fried chicken,unhealthy
+mango,healthy
+apple,healthy
+avocado,healthy
+donut,unhealthy
+pizza,unhealthy
+peach,healthy
+pizza,unhealthy
+watermelon,healthy
+energy drink,unhealthy
+melon,healthy
+peach,healthy
+banana,healthy
+energy drink,unhealthy
+cherries,healthy
+carrot,healthy
+cherries,healthy
+carrot,healthy
+chocolate,unhealthy
+cucumber,healthy
+cookies,unhealthy
+potato chips,unhealthy
+donut,unhealthy
+burger,unhealthy
+carrot,healthy
+peach,healthy
+carrot,healthy
+pastry,unhealthy
+apricot,healthy
+pasta,unhealthy
+blueberry,healthy
+carrot,healthy
+chips,unhealthy
+carrot,healthy
+burger,unhealthy
+grapes,healthy
+chips,unhealthy
+grapes,healthy
+candy bar,unhealthy
+cheese sticks,unhealthy
+cake,unhealthy
+watermelon,healthy
+apple,healthy
+burger,unhealthy
+apple,healthy
+watermelon,healthy
+banana,healthy
+banana,healthy
+burger,unhealthy
+spinach,healthy
+strawberry,healthy
+pear,healthy
+pastry,unhealthy
+cheese sticks,unhealthy
+pasta,unhealthy
+cookies,unhealthy
+ice cream,unhealthy
+cake,unhealthy
+pasta,unhealthy
+apricot,healthy
+pear,healthy
+spinach,healthy
+orange,healthy
+mango,healthy
+cucumber,healthy
+fried fish,unhealthy
+chips,unhealthy
+spinach,healthy
+pasta,unhealthy
+mango,healthy
+cherries,healthy
+tomato,healthy
+energy drink,unhealthy
+carrot,healthy
+burger,unhealthy
+cucumber,healthy
+blueberry,healthy
+avocado,healthy
+apple,healthy
+grapes,healthy
+ice cream,unhealthy
+mango,healthy
+apple,healthy
+pizza,unhealthy
+cherries,healthy
+fries,unhealthy
+cherries,healthy
+potato chips,unhealthy
+apple,healthy
+pizza,unhealthy
+orange,healthy
+candy,unhealthy
+potato chips,unhealthy
+fried fish,unhealthy
+potato chips,unhealthy
+mango,healthy
+fried chicken,unhealthy
+watermelon,healthy
+chips,unhealthy
+cheese sticks,unhealthy
+energy drink,unhealthy
+pasta,unhealthy
+avocado,healthy
+soda,unhealthy
+nachos,unhealthy
+candy bar,unhealthy
+blueberry,healthy
+avocado,healthy
+avocado,healthy
+cherries,healthy
+chocolate,unhealthy
+chips,unhealthy
+avocado,healthy
+kiwi,healthy
+avocado,healthy
+mango,healthy
+broccoli,healthy
+candy bar,unhealthy
+chocolate,unhealthy
+blueberry,healthy
+nachos,unhealthy
+chips,unhealthy
+blueberry,healthy
+soda,unhealthy
+pasta,unhealthy
+fries,unhealthy
+chocolate,unhealthy
+spinach,healthy
+nachos,unhealthy
+grapes,healthy
+orange,healthy
+mango,healthy
+pasta,unhealthy
+potato chips,unhealthy
+spinach,healthy
+apple,healthy
+cake,unhealthy
+candy,unhealthy
+candy bar,unhealthy
+pear,healthy
+apricot,healthy
+apple,healthy
+cheese sticks,unhealthy
+pear,healthy
+peach,healthy
+spinach,healthy
+cake,unhealthy
+soda,unhealthy
+blueberry,healthy
+strawberry,healthy
+soda,unhealthy
+pasta,unhealthy
+peach,healthy
+mango,healthy
+chocolate,unhealthy
+cookies,unhealthy
+carrot,healthy
+apricot,healthy
+donut,unhealthy
+cherries,healthy
+peach,healthy
+cake,unhealthy
+cake,unhealthy
+apricot,healthy
+energy drink,unhealthy
+cherries,healthy
+strawberry,healthy
+blueberry,healthy
+soda,unhealthy
+spinach,healthy
+fried chicken,unhealthy
+kiwi,healthy
+cherries,healthy
+donut,unhealthy
+avocado,healthy
+spinach,healthy
+fried fish,unhealthy
+apple,healthy
+carrot,healthy
+fries,unhealthy
+kiwi,healthy
+pizza,unhealthy
+soda,unhealthy
+apple,healthy
+potato chips,unhealthy
+banana,healthy
+tomato,healthy
+fries,unhealthy
+peach,healthy
+carrot,healthy
+kiwi,healthy
+soda,unhealthy
+pear,healthy
+candy bar,unhealthy
+apple,healthy
+mango,healthy
+cherries,healthy
+melon,healthy
+fries,unhealthy
+donut,unhealthy
+pasta,unhealthy
+banana,healthy
+blueberry,healthy
+cheese sticks,unhealthy
+apricot,healthy
+watermelon,healthy
+blueberry,healthy
+energy drink,unhealthy
+avocado,healthy
+donut,unhealthy
+cookies,unhealthy
+watermelon,healthy
+spinach,healthy
+carrot,healthy
+broccoli,healthy
+grapes,healthy
+tomato,healthy
+donut,unhealthy
+banana,healthy
+blueberry,healthy
+energy drink,unhealthy
+fried fish,unhealthy
+grapes,healthy
+cheese sticks,unhealthy
+kiwi,healthy
+blueberry,healthy
+chips,unhealthy
+kiwi,healthy
+burger,unhealthy
+chips,unhealthy
+fried fish,unhealthy
+burger,unhealthy
+chocolate,unhealthy
+pastry,unhealthy
+peach,healthy
+cucumber,healthy
+burger,unhealthy
+pasta,unhealthy
+carrot,healthy
+nachos,unhealthy
+fried chicken,unhealthy
+apple,healthy
+pasta,unhealthy
+burger,unhealthy
+potato chips,unhealthy
+orange,healthy
+carrot,healthy
+fries,unhealthy
+pastry,unhealthy
+banana,healthy
+candy,unhealthy
+apple,healthy
+nachos,unhealthy
+tomato,healthy
+nachos,unhealthy
+fried chicken,unhealthy
+fried fish,unhealthy
+energy drink,unhealthy
+grapes,healthy
+carrot,healthy
+apricot,healthy
+watermelon,healthy
+orange,healthy
+potato chips,unhealthy
+tomato,healthy
+cookies,unhealthy
+nachos,unhealthy
+spinach,healthy
+peach,healthy
+pizza,unhealthy
+ice cream,unhealthy
+peach,healthy
+spinach,healthy
+mango,healthy
+chocolate,unhealthy
+pastry,unhealthy
+fried fish,unhealthy
+chips,unhealthy
+spinach,healthy
+watermelon,healthy
+mango,healthy
+orange,healthy
+tomato,healthy
+ice cream,unhealthy
+kiwi,healthy
+peach,healthy
+kiwi,healthy
+cake,unhealthy
+mango,healthy
+broccoli,healthy
+burger,unhealthy
+carrot,healthy
+cucumber,healthy
+strawberry,healthy
+mango,healthy
+avocado,healthy
+fries,unhealthy
+soda,unhealthy
+pasta,unhealthy
+chips,unhealthy
+cherries,healthy
+spinach,healthy
+grapes,healthy
+candy,unhealthy
+burger,unhealthy
+kiwi,healthy
+pear,healthy
+strawberry,healthy
+donut,unhealthy
+chocolate,unhealthy
+burger,unhealthy
+cherries,healthy
+soda,unhealthy
+avocado,healthy
+fried fish,unhealthy
+cherries,healthy
+blueberry,healthy
+carrot,healthy
+fried chicken,unhealthy
+grapes,healthy
+strawberry,healthy
+energy drink,unhealthy
+burger,unhealthy
+cheese sticks,unhealthy
+cheese sticks,unhealthy
+strawberry,healthy
+cherries,healthy
+nachos,unhealthy
+tomato,healthy
+kiwi,healthy
+burger,unhealthy
+burger,unhealthy
+blueberry,healthy
+carrot,healthy
+soda,unhealthy
+grapes,healthy
+strawberry,healthy
+cherries,healthy
+pastry,unhealthy
+carrot,healthy
+watermelon,healthy
+orange,healthy
+soda,unhealthy
+pizza,unhealthy
+banana,healthy
+avocado,healthy
+kiwi,healthy
+mango,healthy
+carrot,healthy
+potato chips,unhealthy
+fried fish,unhealthy
+energy drink,unhealthy
+orange,healthy
+melon,healthy
+kiwi,healthy
+carrot,healthy
+broccoli,healthy
+burger,unhealthy
+burger,unhealthy
+energy drink,unhealthy
+pasta,unhealthy
+fried chicken,unhealthy
+chocolate,unhealthy
+strawberry,healthy
+orange,healthy
+melon,healthy
+pasta,unhealthy
+melon,healthy
+ice cream,unhealthy
+carrot,healthy
+cucumber,healthy
+broccoli,healthy
+burger,unhealthy
+cheese sticks,unhealthy
+grapes,healthy
+nachos,unhealthy
+orange,healthy
+chocolate,unhealthy
+orange,healthy
+kiwi,healthy
+watermelon,healthy
+orange,healthy
+broccoli,healthy
+grapes,healthy
+cookies,unhealthy
+cookies,unhealthy
+fries,unhealthy
+ice cream,unhealthy
+energy drink,unhealthy
+apple,healthy
+burger,unhealthy
+cake,unhealthy
+soda,unhealthy
+tomato,healthy
+cake,unhealthy
+energy drink,unhealthy
+energy drink,unhealthy
+strawberry,healthy
+grapes,healthy
+spinach,healthy
+cherries,healthy
+orange,healthy
+tomato,healthy
+blueberry,healthy
+peach,healthy
+chips,unhealthy
+cookies,unhealthy
+broccoli,healthy
+broccoli,healthy
+fried chicken,unhealthy
+burger,unhealthy
+peach,healthy
+soda,unhealthy
+blueberry,healthy
+avocado,healthy
+apricot,healthy
+candy bar,unhealthy
+soda,unhealthy
+kiwi,healthy
+blueberry,healthy
+cookies,unhealthy
+blueberry,healthy
+soda,unhealthy
+tomato,healthy
+spinach,healthy
+kiwi,healthy
+burger,unhealthy
+ice cream,unhealthy
+pastry,unhealthy
+donut,unhealthy
+cheese sticks,unhealthy
+chips,unhealthy
+carrot,healthy
+mango,healthy
+pizza,unhealthy
+orange,healthy
+spinach,healthy
+watermelon,healthy
+ice cream,unhealthy
+pastry,unhealthy
+peach,healthy
+candy bar,unhealthy
+carrot,healthy
+fried fish,unhealthy
+broccoli,healthy
+strawberry,healthy
+chips,unhealthy
+orange,healthy
+fried fish,unhealthy
+orange,healthy
+peach,healthy
+burger,unhealthy
+pear,healthy
+avocado,healthy
+cheese sticks,unhealthy
+candy,unhealthy
+apple,healthy
+soda,unhealthy
+ice cream,unhealthy
+chocolate,unhealthy
+cucumber,healthy
+pizza,unhealthy
+orange,healthy
+apple,healthy
+kiwi,healthy
+cake,unhealthy
+banana,healthy
+carrot,healthy
+pastry,unhealthy
+blueberry,healthy
+donut,unhealthy
+melon,healthy
+strawberry,healthy
+burger,unhealthy
+mango,healthy
+cookies,unhealthy
+pizza,unhealthy
+burger,unhealthy
+tomato,healthy
+mango,healthy
+peach,healthy
+melon,healthy
+donut,unhealthy
+potato chips,unhealthy
+burger,unhealthy
+strawberry,healthy
+watermelon,healthy
+cake,unhealthy
+ice cream,unhealthy
+apricot,healthy
+candy,unhealthy
+candy bar,unhealthy
+banana,healthy
+pastry,unhealthy
+kiwi,healthy
+blueberry,healthy
+fries,unhealthy
+chips,unhealthy
+pastry,unhealthy
+chips,unhealthy
+grapes,healthy
+fries,unhealthy
+cherries,healthy
+cucumber,healthy
+apple,healthy
+melon,healthy
+cheese sticks,unhealthy
+mango,healthy
+cherries,healthy
+mango,healthy
+cheese sticks,unhealthy
+watermelon,healthy
+cheese sticks,unhealthy
+pasta,unhealthy
+cheese sticks,unhealthy
+grapes,healthy
+nachos,unhealthy
+cookies,unhealthy
+donut,unhealthy
+donut,unhealthy
+tomato,healthy
+chocolate,unhealthy
+chocolate,unhealthy
+peach,healthy
+tomato,healthy
+peach,healthy
+chips,unhealthy
+fried chicken,unhealthy
+watermelon,healthy
+peach,healthy
+spinach,healthy
+strawberry,healthy
+donut,unhealthy
+soda,unhealthy
+peach,healthy
+mango,healthy
+cucumber,healthy
+grapes,healthy
+donut,unhealthy
+ice cream,unhealthy
+grapes,healthy
+blueberry,healthy
+blueberry,healthy
+soda,unhealthy
+chips,unhealthy
+donut,unhealthy
+mango,healthy
+potato chips,unhealthy
+fries,unhealthy
+strawberry,healthy
+burger,unhealthy
+cake,unhealthy
+kiwi,healthy
+candy,unhealthy
+soda,unhealthy
+donut,unhealthy
+cherries,healthy
+melon,healthy
+apricot,healthy
+donut,unhealthy
+broccoli,healthy
+apricot,healthy
+fried fish,unhealthy
+apricot,healthy
+spinach,healthy
+fries,unhealthy
+apple,healthy
+cake,unhealthy
+grapes,healthy
+apple,healthy
+broccoli,healthy
+cheese sticks,unhealthy
+candy,unhealthy
+pear,healthy
+spinach,healthy
+kiwi,healthy
+soda,unhealthy
+donut,unhealthy
+ice cream,unhealthy
+candy bar,unhealthy
+peach,healthy
+fried chicken,unhealthy
+avocado,healthy
+banana,healthy
+fried chicken,unhealthy
+fries,unhealthy
+avocado,healthy
+fried fish,unhealthy
+cheese sticks,unhealthy
+candy bar,unhealthy
+blueberry,healthy
+cheese sticks,unhealthy
+peach,healthy
+cucumber,healthy
+strawberry,healthy
+cookies,unhealthy
+blueberry,healthy
+mango,healthy
+peach,healthy
+avocado,healthy
+fried chicken,unhealthy
+chips,unhealthy
+peach,healthy
+strawberry,healthy
+ice cream,unhealthy
+tomato,healthy
+melon,healthy
+spinach,healthy
+fries,unhealthy
+cherries,healthy
+candy,unhealthy
+pear,healthy
+spinach,healthy
+fried fish,unhealthy
+pear,healthy
+avocado,healthy
+candy,unhealthy
+grapes,healthy
+burger,unhealthy
+chocolate,unhealthy
+watermelon,healthy
+cake,unhealthy
+cake,unhealthy
+watermelon,healthy
+cookies,unhealthy
+energy drink,unhealthy
+fries,unhealthy
+strawberry,healthy
+cucumber,healthy
+cake,unhealthy
+cake,unhealthy
+kiwi,healthy
+peach,healthy
+grapes,healthy
+tomato,healthy
+donut,unhealthy
+cheese sticks,unhealthy
+spinach,healthy
+apple,healthy
+cherries,healthy
+mango,healthy
+orange,healthy
+carrot,healthy
+mango,healthy
+candy,unhealthy
+burger,unhealthy
+mango,healthy
+fried fish,unhealthy
+candy bar,unhealthy
+nachos,unhealthy
+pastry,unhealthy
+chips,unhealthy
+cheese sticks,unhealthy
+potato chips,unhealthy
+pear,healthy
+cookies,unhealthy
+candy bar,unhealthy
+candy,unhealthy
+cake,unhealthy
+cheese sticks,unhealthy
+fried chicken,unhealthy
+energy drink,unhealthy
+potato chips,unhealthy
+nachos,unhealthy
+orange,healthy
+soda,unhealthy
+tomato,healthy
+apricot,healthy
+cherries,healthy
+grapes,healthy
+cherries,healthy
+pastry,unhealthy
+energy drink,unhealthy
+pasta,unhealthy
+watermelon,healthy
+cucumber,healthy
+peach,healthy
+banana,healthy
+energy drink,unhealthy
+fried fish,unhealthy
+fried fish,unhealthy
+tomato,healthy
+chips,unhealthy
+blueberry,healthy
+fried fish,unhealthy
+cherries,healthy
+orange,healthy
+tomato,healthy
+fries,unhealthy
+broccoli,healthy
+fried fish,unhealthy
+orange,healthy
+orange,healthy
+avocado,healthy
+chips,unhealthy
+soda,unhealthy
+apple,healthy
+soda,unhealthy
+soda,unhealthy
+nachos,unhealthy
+pear,healthy
+cherries,healthy
+fries,unhealthy
+orange,healthy
+pear,healthy
+cake,unhealthy
+fried chicken,unhealthy
+kiwi,healthy
+blueberry,healthy
+chips,unhealthy
+energy drink,unhealthy
+cheese sticks,unhealthy
+kiwi,healthy
+avocado,healthy
+chocolate,unhealthy
+donut,unhealthy
+chips,unhealthy
+tomato,healthy
+nachos,unhealthy
+tomato,healthy
+nachos,unhealthy
+cherries,healthy
+spinach,healthy
+grapes,healthy
+carrot,healthy
+apricot,healthy
+candy,unhealthy
+cookies,unhealthy
+peach,healthy
+carrot,healthy
+apple,healthy
+cookies,unhealthy
+potato chips,unhealthy
+candy,unhealthy
+apple,healthy
+orange,healthy
+watermelon,healthy
+candy bar,unhealthy
+broccoli,healthy
+fried chicken,unhealthy
+ice cream,unhealthy
+peach,healthy
+chocolate,unhealthy
+ice cream,unhealthy
+candy,unhealthy
+banana,healthy
+cherries,healthy
+kiwi,healthy
+cake,unhealthy
+broccoli,healthy
+pizza,unhealthy
+watermelon,healthy
+energy drink,unhealthy
+mango,healthy
+melon,healthy
+mango,healthy
+donut,unhealthy
+kiwi,healthy
+pear,healthy
+strawberry,healthy
+cookies,unhealthy
+chocolate,unhealthy
+chocolate,unhealthy
+energy drink,unhealthy
+melon,healthy
+pastry,unhealthy
+cookies,unhealthy
+chocolate,unhealthy
+carrot,healthy
+mango,healthy
+cherries,healthy
+pasta,unhealthy
+chocolate,unhealthy
+watermelon,healthy
+cherries,healthy
+chocolate,unhealthy
+donut,unhealthy
+chips,unhealthy
+cherries,healthy
+soda,unhealthy
+candy,unhealthy
+tomato,healthy
+avocado,healthy
+melon,healthy
+grapes,healthy
+watermelon,healthy
+mango,healthy
+grapes,healthy
+candy,unhealthy
+tomato,healthy
+kiwi,healthy
+strawberry,healthy
+peach,healthy
+fried chicken,unhealthy
+potato chips,unhealthy
+tomato,healthy
+burger,unhealthy
+ice cream,unhealthy
+watermelon,healthy
+cookies,unhealthy
+banana,healthy
+melon,healthy
+avocado,healthy
+broccoli,healthy
+burger,unhealthy
+candy bar,unhealthy
+burger,unhealthy
+pear,healthy
+spinach,healthy
+pastry,unhealthy
+soda,unhealthy
+spinach,healthy
+fried chicken,unhealthy
+energy drink,unhealthy
+grapes,healthy
+strawberry,healthy
+pastry,unhealthy
+fried chicken,unhealthy
+nachos,unhealthy
+chips,unhealthy
+melon,healthy
+burger,unhealthy
+burger,unhealthy
+strawberry,healthy
+cherries,healthy
+chips,unhealthy
+nachos,unhealthy
+pizza,unhealthy
+soda,unhealthy
+apple,healthy
+cheese sticks,unhealthy
+mango,healthy
+candy,unhealthy
+burger,unhealthy
+chips,unhealthy
+donut,unhealthy
+cheese sticks,unhealthy
+orange,healthy
+chips,unhealthy
+pizza,unhealthy
+pear,healthy
+cookies,unhealthy
+candy,unhealthy
+soda,unhealthy
+spinach,healthy
+burger,unhealthy
+blueberry,healthy
+chips,unhealthy
+ice cream,unhealthy
+energy drink,unhealthy
+donut,unhealthy
+pasta,unhealthy
+potato chips,unhealthy
+watermelon,healthy
+pasta,unhealthy
+pear,healthy
+cookies,unhealthy
+grapes,healthy
+melon,healthy
+avocado,healthy
+donut,unhealthy
+cherries,healthy
+pastry,unhealthy
+fries,unhealthy
+banana,healthy
+pasta,unhealthy
+energy drink,unhealthy
+pastry,unhealthy
+chocolate,unhealthy
+energy drink,unhealthy
+cake,unhealthy
+pizza,unhealthy
+potato chips,unhealthy
+carrot,healthy
+burger,unhealthy
+apple,healthy
+broccoli,healthy
+fries,unhealthy
+peach,healthy
+soda,unhealthy
+pastry,unhealthy
+peach,healthy
+pasta,unhealthy
+orange,healthy
+chocolate,unhealthy
+pear,healthy
+potato chips,unhealthy
+pastry,unhealthy
+donut,unhealthy
+chips,unhealthy
+pasta,unhealthy
+carrot,healthy
+cookies,unhealthy
+kiwi,healthy
+orange,healthy
+chips,unhealthy
+melon,healthy
+pear,healthy
+pizza,unhealthy
+strawberry,healthy
+peach,healthy
+cherries,healthy
+energy drink,unhealthy
+cucumber,healthy
+pastry,unhealthy
+avocado,healthy
+pear,healthy
+apricot,healthy
+fries,unhealthy
+potato chips,unhealthy
+avocado,healthy
+energy drink,unhealthy
+carrot,healthy
+candy,unhealthy
+potato chips,unhealthy
+avocado,healthy
+ice cream,unhealthy
+mango,healthy
+chocolate,unhealthy
+cucumber,healthy
+apple,healthy
+potato chips,unhealthy
+donut,unhealthy
+grapes,healthy
+cookies,unhealthy
+burger,unhealthy
+broccoli,healthy
+grapes,healthy
+potato chips,unhealthy
+peach,healthy
+candy bar,unhealthy
+kiwi,healthy
+avocado,healthy
+strawberry,healthy
+chocolate,unhealthy
+fried chicken,unhealthy
+energy drink,unhealthy
+ice cream,unhealthy
+pear,healthy
+banana,healthy
+apricot,healthy
+candy bar,unhealthy
+blueberry,healthy
+chocolate,unhealthy
+cake,unhealthy
+energy drink,unhealthy
+cookies,unhealthy
+energy drink,unhealthy
+cake,unhealthy
+apple,healthy
+strawberry,healthy
+avocado,healthy
+mango,healthy
+apple,healthy
+fried chicken,unhealthy
+pasta,unhealthy
+watermelon,healthy
+blueberry,healthy
+cucumber,healthy
+orange,healthy
+candy,unhealthy
+blueberry,healthy
+donut,unhealthy
+pizza,unhealthy
+apricot,healthy
+candy bar,unhealthy
+chocolate,unhealthy
+orange,healthy
+melon,healthy
+apple,healthy
+pizza,unhealthy
+pastry,unhealthy
+cheese sticks,unhealthy
+chips,unhealthy
+fried chicken,unhealthy
+watermelon,healthy
+carrot,healthy
+soda,unhealthy
+strawberry,healthy
+fried fish,unhealthy
+cherries,healthy
+cherries,healthy
+kiwi,healthy
+cucumber,healthy
+blueberry,healthy
+fries,unhealthy
+banana,healthy
+carrot,healthy
+mango,healthy
+fried fish,unhealthy
+cookies,unhealthy
+spinach,healthy
+mango,healthy
+burger,unhealthy
+pasta,unhealthy
+fries,unhealthy
+chocolate,unhealthy
+grapes,healthy
+potato chips,unhealthy
+orange,healthy
+soda,unhealthy
+chocolate,unhealthy
+potato chips,unhealthy
+soda,unhealthy
+ice cream,unhealthy
+cake,unhealthy
+fried chicken,unhealthy
+donut,unhealthy
+kiwi,healthy
+watermelon,healthy
+broccoli,healthy
+chocolate,unhealthy
+pasta,unhealthy
+fried chicken,unhealthy
+spinach,healthy
+kiwi,healthy
+donut,unhealthy
+donut,unhealthy
+tomato,healthy
+energy drink,unhealthy
+blueberry,healthy
+blueberry,healthy
+cake,unhealthy
+peach,healthy
+cherries,healthy
+energy drink,unhealthy
+cherries,healthy
+blueberry,healthy
+ice cream,unhealthy
+pastry,unhealthy
+candy bar,unhealthy
+strawberry,healthy
+apple,healthy
+cookies,unhealthy
+potato chips,unhealthy
+pizza,unhealthy
+blueberry,healthy
+tomato,healthy
+cake,unhealthy
+mango,healthy
+avocado,healthy
+potato chips,unhealthy
+spinach,healthy
+mango,healthy
+watermelon,healthy
+carrot,healthy
+peach,healthy
+broccoli,healthy
+chips,unhealthy
+orange,healthy
+soda,unhealthy
+pizza,unhealthy
+potato chips,unhealthy
+grapes,healthy
+broccoli,healthy
+tomato,healthy
+soda,unhealthy
+candy,unhealthy
+ice cream,unhealthy
+orange,healthy
+cake,unhealthy
+mango,healthy
+fried fish,unhealthy
+melon,healthy
+banana,healthy
+blueberry,healthy
+carrot,healthy
+pear,healthy
+nachos,unhealthy
+donut,unhealthy
+watermelon,healthy
+apple,healthy
+pasta,unhealthy
+cherries,healthy
+tomato,healthy
+banana,healthy
+fries,unhealthy
+pizza,unhealthy
+orange,healthy
+spinach,healthy
+carrot,healthy
+cookies,unhealthy
+burger,unhealthy
+peach,healthy
+mango,healthy
+chocolate,unhealthy
+fried fish,unhealthy
+mango,healthy
+pasta,unhealthy
+cucumber,healthy
+pizza,unhealthy
+melon,healthy
+potato chips,unhealthy
+pear,healthy
+melon,healthy
+donut,unhealthy
+tomato,healthy
+carrot,healthy
+fried chicken,unhealthy
+cookies,unhealthy
+peach,healthy
+strawberry,healthy
+kiwi,healthy
+ice cream,unhealthy
+fried fish,unhealthy
+pastry,unhealthy
+ice cream,unhealthy
+cake,unhealthy
+grapes,healthy
+fries,unhealthy
+broccoli,healthy
+pizza,unhealthy
+cucumber,healthy
+fried chicken,unhealthy
+mango,healthy
+avocado,healthy
+blueberry,healthy
+soda,unhealthy
+tomato,healthy
+mango,healthy
+cherries,healthy
+melon,healthy
+grapes,healthy
+candy bar,unhealthy
+kiwi,healthy
+cheese sticks,unhealthy
+carrot,healthy
+peach,healthy
+mango,healthy
+potato chips,unhealthy
+melon,healthy
+watermelon,healthy
+banana,healthy
+melon,healthy
+melon,healthy
+apple,healthy
+energy drink,unhealthy
+candy bar,unhealthy
+pizza,unhealthy
+pear,healthy
+cucumber,healthy
+fries,unhealthy
+fried fish,unhealthy
+pizza,unhealthy
+banana,healthy
+cherries,healthy
+grapes,healthy
+chocolate,unhealthy
+blueberry,healthy
+fried chicken,unhealthy
+avocado,healthy
+grapes,healthy
+burger,unhealthy
+cheese sticks,unhealthy
+fried fish,unhealthy
+watermelon,healthy
+spinach,healthy
+burger,unhealthy
+mango,healthy
+mango,healthy
+energy drink,unhealthy
+carrot,healthy
+pastry,unhealthy
+peach,healthy
+fried fish,unhealthy
+banana,healthy
+spinach,healthy
+banana,healthy
+kiwi,healthy
+cheese sticks,unhealthy
+candy bar,unhealthy
+donut,unhealthy
+donut,unhealthy
+potato chips,unhealthy
+fried fish,unhealthy
+pear,healthy
+tomato,healthy
+melon,healthy
+pasta,unhealthy
+grapes,healthy
+chips,unhealthy
+pasta,unhealthy
+candy bar,unhealthy
+candy bar,unhealthy
+pasta,unhealthy
+soda,unhealthy
+strawberry,healthy
+apple,healthy
+cheese sticks,unhealthy
+ice cream,unhealthy
+potato chips,unhealthy
+pastry,unhealthy
+banana,healthy
+cucumber,healthy
+burger,unhealthy
+chocolate,unhealthy
+soda,unhealthy
+pastry,unhealthy
+chocolate,unhealthy
+orange,healthy
+broccoli,healthy
+cake,unhealthy
+chocolate,unhealthy
+donut,unhealthy
+pear,healthy
+energy drink,unhealthy
+burger,unhealthy
+cake,unhealthy
+cake,unhealthy
+carrot,healthy
+cookies,unhealthy
+cherries,healthy
+broccoli,healthy
+cherries,healthy
+fried fish,unhealthy
+mango,healthy
+broccoli,healthy
+spinach,healthy
+energy drink,unhealthy
+donut,unhealthy
+blueberry,healthy
+energy drink,unhealthy
+apricot,healthy
+soda,unhealthy
+strawberry,healthy
+grapes,healthy
+apple,healthy
+melon,healthy
+watermelon,healthy
+donut,unhealthy
+pizza,unhealthy
+mango,healthy
+blueberry,healthy
+candy,unhealthy
+peach,healthy
+energy drink,unhealthy
+pastry,unhealthy
+nachos,unhealthy
+pizza,unhealthy
+apple,healthy
+potato chips,unhealthy
+broccoli,healthy
+ice cream,unhealthy
+soda,unhealthy
+orange,healthy
+cherries,healthy
+watermelon,healthy
+energy drink,unhealthy
+mango,healthy
+avocado,healthy
+burger,unhealthy
+peach,healthy
+fries,unhealthy
+cucumber,healthy
+pizza,unhealthy
+blueberry,healthy
+candy bar,unhealthy
+ice cream,unhealthy
+watermelon,healthy
+energy drink,unhealthy
+broccoli,healthy
+donut,unhealthy
+peach,healthy
+energy drink,unhealthy
+broccoli,healthy
+watermelon,healthy
+kiwi,healthy
+avocado,healthy
+burger,unhealthy
+peach,healthy
+ice cream,unhealthy
+cake,unhealthy
+chips,unhealthy
+cheese sticks,unhealthy
+fries,unhealthy
+chocolate,unhealthy
+watermelon,healthy
+broccoli,healthy
+pear,healthy
+spinach,healthy
+pizza,unhealthy
+nachos,unhealthy
+fried chicken,unhealthy
+broccoli,healthy
+pastry,unhealthy
+ice cream,unhealthy
+grapes,healthy
+chips,unhealthy
+fried chicken,unhealthy
+fried chicken,unhealthy
+kiwi,healthy
+apricot,healthy
+strawberry,healthy
+cherries,healthy
+orange,healthy
+fried chicken,unhealthy
+strawberry,healthy
+broccoli,healthy
+cucumber,healthy
+soda,unhealthy
+pizza,unhealthy
+energy drink,unhealthy
+cake,unhealthy
+apricot,healthy
+ice cream,unhealthy
+cherries,healthy
+donut,unhealthy
+nachos,unhealthy
+cake,unhealthy
+cookies,unhealthy
+pizza,unhealthy
+chocolate,unhealthy
+cherries,healthy
+nachos,unhealthy
+apple,healthy
+orange,healthy
+spinach,healthy
+banana,healthy
+nachos,unhealthy
+burger,unhealthy
+fried fish,unhealthy
+kiwi,healthy
+watermelon,healthy
+candy,unhealthy
+fried fish,unhealthy
+apricot,healthy
+spinach,healthy
+pasta,unhealthy
+candy bar,unhealthy
+candy,unhealthy
+chocolate,unhealthy
+carrot,healthy
+melon,healthy
+nachos,unhealthy
+avocado,healthy
+watermelon,healthy
+blueberry,healthy
+orange,healthy
+cookies,unhealthy
+grapes,healthy
+peach,healthy
+ice cream,unhealthy
+cheese sticks,unhealthy
+donut,unhealthy
+carrot,healthy
+chocolate,unhealthy
+cookies,unhealthy
+nachos,unhealthy
+apple,healthy
+mango,healthy
+pear,healthy
+ice cream,unhealthy
+cheese sticks,unhealthy
+chocolate,unhealthy
+apricot,healthy
+apricot,healthy
+soda,unhealthy
+pastry,unhealthy
+cookies,unhealthy
+soda,unhealthy
+ice cream,unhealthy
+candy bar,unhealthy
+grapes,healthy
+peach,healthy
+banana,healthy
+peach,healthy
+kiwi,healthy
+kiwi,healthy
+cherries,healthy
+broccoli,healthy
+pear,healthy
+tomato,healthy
+watermelon,healthy
+cheese sticks,unhealthy
+donut,unhealthy
+candy,unhealthy
+candy bar,unhealthy
+avocado,healthy
+cucumber,healthy
+candy,unhealthy
+peach,healthy
+melon,healthy
+pizza,unhealthy
+fries,unhealthy
+potato chips,unhealthy
+carrot,healthy
+chocolate,unhealthy
+fries,unhealthy
+fried chicken,unhealthy
+orange,healthy
+potato chips,unhealthy
+tomato,healthy
+chips,unhealthy
+broccoli,healthy
+candy,unhealthy
+pasta,unhealthy
+candy,unhealthy
+burger,unhealthy
+fried chicken,unhealthy
+banana,healthy
+potato chips,unhealthy
+peach,healthy
+strawberry,healthy
+avocado,healthy
+soda,unhealthy
+broccoli,healthy
+chips,unhealthy
+burger,unhealthy
+pastry,unhealthy
+nachos,unhealthy
+cake,unhealthy
+avocado,healthy
+watermelon,healthy
+cherries,healthy
+fries,unhealthy
+cake,unhealthy
+energy drink,unhealthy
+pizza,unhealthy
+apple,healthy
+melon,healthy
+fried chicken,unhealthy
+cucumber,healthy
+burger,unhealthy
+orange,healthy
+peach,healthy
+nachos,unhealthy
+broccoli,healthy
+fried chicken,unhealthy
+chocolate,unhealthy
+nachos,unhealthy
+burger,unhealthy
+nachos,unhealthy
+candy,unhealthy
+grapes,healthy
+grapes,healthy
+burger,unhealthy
+soda,unhealthy
+fried fish,unhealthy
+banana,healthy
+fried chicken,unhealthy
+energy drink,unhealthy
+cherries,healthy
+energy drink,unhealthy
+cookies,unhealthy
+cucumber,healthy
+cucumber,healthy
+mango,healthy
+strawberry,healthy
+tomato,healthy
+fried chicken,unhealthy
+melon,healthy
+cherries,healthy
+pastry,unhealthy
+cucumber,healthy
+strawberry,healthy
+strawberry,healthy
+cheese sticks,unhealthy
+pasta,unhealthy
+watermelon,healthy
+fries,unhealthy
+cheese sticks,unhealthy
+cookies,unhealthy
+grapes,healthy
+melon,healthy
+candy,unhealthy
+cake,unhealthy
+kiwi,healthy
+carrot,healthy
+melon,healthy
+tomato,healthy
+pasta,unhealthy
+soda,unhealthy
+avocado,healthy
+soda,unhealthy
+tomato,healthy
+grapes,healthy
+donut,unhealthy
+melon,healthy
+fried fish,unhealthy
+avocado,healthy
+carrot,healthy
+orange,healthy
+broccoli,healthy
+grapes,healthy
+cucumber,healthy
+cheese sticks,unhealthy
+candy,unhealthy
+spinach,healthy
+peach,healthy
+potato chips,unhealthy
+banana,healthy
+pasta,unhealthy
+watermelon,healthy
+kiwi,healthy
+grapes,healthy
+pizza,unhealthy
+apple,healthy
+grapes,healthy
+peach,healthy
+fried fish,unhealthy
+pastry,unhealthy
+orange,healthy
+peach,healthy
+grapes,healthy
+pasta,unhealthy
+fries,unhealthy
+fried fish,unhealthy
+banana,healthy
+apple,healthy
+tomato,healthy
+pear,healthy
+pasta,unhealthy
+watermelon,healthy
+chocolate,unhealthy
+candy bar,unhealthy
+strawberry,healthy
+chocolate,unhealthy
+blueberry,healthy
+fried chicken,unhealthy
+carrot,healthy
+banana,healthy
+pizza,unhealthy
+energy drink,unhealthy
+grapes,healthy
+banana,healthy
+grapes,healthy
+chips,unhealthy
+apricot,healthy
+pear,healthy
+cherries,healthy
+burger,unhealthy
+chips,unhealthy
+cucumber,healthy
+orange,healthy
+pizza,unhealthy
+melon,healthy
+watermelon,healthy
+burger,unhealthy
+potato chips,unhealthy
+pizza,unhealthy
+pastry,unhealthy
+energy drink,unhealthy
+fried chicken,unhealthy
+strawberry,healthy
+cherries,healthy
+peach,healthy
+fries,unhealthy
+spinach,healthy
+cake,unhealthy
+kiwi,healthy
+apricot,healthy
+tomato,healthy
+pear,healthy
+peach,healthy
+mango,healthy
+ice cream,unhealthy
+kiwi,healthy
+kiwi,healthy
+fried fish,unhealthy
+spinach,healthy
+candy,unhealthy
+watermelon,healthy
+mango,healthy
+grapes,healthy
+pizza,unhealthy
+banana,healthy
+tomato,healthy
+apple,healthy
+pear,healthy
+tomato,healthy
+banana,healthy
+nachos,unhealthy
+candy bar,unhealthy
+banana,healthy
+fries,unhealthy
+carrot,healthy
+apricot,healthy
+candy,unhealthy
+carrot,healthy
+avocado,healthy
+donut,unhealthy
+kiwi,healthy
+carrot,healthy
+cherries,healthy
+apple,healthy
+watermelon,healthy
+nachos,unhealthy
+chips,unhealthy
+fried chicken,unhealthy
+burger,unhealthy
+spinach,healthy
+cheese sticks,unhealthy
+orange,healthy
+banana,healthy
+strawberry,healthy
+mango,healthy
+candy bar,unhealthy
+cheese sticks,unhealthy
+pastry,unhealthy
+pastry,unhealthy
+carrot,healthy
+kiwi,healthy
+melon,healthy
+soda,unhealthy
+spinach,healthy
+donut,unhealthy
+apple,healthy
+grapes,healthy
+fried chicken,unhealthy
+kiwi,healthy
+cucumber,healthy
+broccoli,healthy
+pastry,unhealthy
+cucumber,healthy
+cherries,healthy
+cheese sticks,unhealthy
+cheese sticks,unhealthy
+candy,unhealthy
+kiwi,healthy
+pasta,unhealthy
+chips,unhealthy
+fries,unhealthy
+candy bar,unhealthy
+cheese sticks,unhealthy
+cucumber,healthy
+chips,unhealthy
+candy bar,unhealthy
+pear,healthy
+orange,healthy
+mango,healthy
+burger,unhealthy
+carrot,healthy
+soda,unhealthy
+donut,unhealthy
+avocado,healthy
+apple,healthy
+pastry,unhealthy
+chocolate,unhealthy
+strawberry,healthy
+fries,unhealthy
+potato chips,unhealthy
+spinach,healthy
+pasta,unhealthy
+cake,unhealthy
+nachos,unhealthy
+cucumber,healthy
+donut,unhealthy
+cookies,unhealthy
+grapes,healthy
+ice cream,unhealthy
+watermelon,healthy
+chips,unhealthy
+fried fish,unhealthy
+soda,unhealthy
+fries,unhealthy
+banana,healthy
+apple,healthy
+apple,healthy
+donut,unhealthy
+spinach,healthy
+fries,unhealthy
+cheese sticks,unhealthy
+burger,unhealthy
+candy,unhealthy
+carrot,healthy
+fried chicken,unhealthy
+carrot,healthy
+nachos,unhealthy
+apple,healthy
+peach,healthy
+pear,healthy
+cake,unhealthy
+pizza,unhealthy
+cheese sticks,unhealthy
+fried fish,unhealthy
+apple,healthy
+peach,healthy
+watermelon,healthy
+mango,healthy
+apricot,healthy
+chocolate,unhealthy
+apple,healthy
+pastry,unhealthy
+cheese sticks,unhealthy
+burger,unhealthy
+mango,healthy
+grapes,healthy
+pizza,unhealthy
+energy drink,unhealthy
+cherries,healthy
+kiwi,healthy
+mango,healthy
+cherries,healthy
+soda,unhealthy
+mango,healthy
+chips,unhealthy
+cherries,healthy
+pasta,unhealthy
+apple,healthy
+broccoli,healthy
+fried fish,unhealthy
+burger,unhealthy
+soda,unhealthy
+carrot,healthy
+orange,healthy
+pizza,unhealthy
+donut,unhealthy
+apple,healthy
+burger,unhealthy
+tomato,healthy
+burger,unhealthy
+orange,healthy
+cheese sticks,unhealthy
+pasta,unhealthy
+pastry,unhealthy
+fried chicken,unhealthy
+pizza,unhealthy
+pasta,unhealthy
+donut,unhealthy
+burger,unhealthy
+burger,unhealthy
+cherries,healthy
+blueberry,healthy
+orange,healthy
+pasta,unhealthy
+tomato,healthy
+apple,healthy
+ice cream,unhealthy
+kiwi,healthy
+candy,unhealthy
+watermelon,healthy
+potato chips,unhealthy
+candy bar,unhealthy
+melon,healthy
+ice cream,unhealthy
+fries,unhealthy
+peach,healthy
+grapes,healthy
+nachos,unhealthy
+chips,unhealthy
+apple,healthy
+avocado,healthy
+broccoli,healthy
+mango,healthy
+cake,unhealthy
+ice cream,unhealthy
+avocado,healthy
+cookies,unhealthy
+potato chips,unhealthy
+energy drink,unhealthy
+chocolate,unhealthy
+melon,healthy
+pear,healthy
+chocolate,unhealthy
+pastry,unhealthy
+apricot,healthy
+mango,healthy
+chips,unhealthy
+mango,healthy
+strawberry,healthy
+candy bar,unhealthy
+chips,unhealthy
+fried chicken,unhealthy
+energy drink,unhealthy
+donut,unhealthy
+chocolate,unhealthy
+ice cream,unhealthy
+cookies,unhealthy
+grapes,healthy
+blueberry,healthy
+pizza,unhealthy
+cookies,unhealthy
+pastry,unhealthy
+peach,healthy
+spinach,healthy
+fries,unhealthy
+mango,healthy
+pear,healthy
+potato chips,unhealthy
+pasta,unhealthy
+fried fish,unhealthy
+banana,healthy
+banana,healthy
+soda,unhealthy
+nachos,unhealthy
+cake,unhealthy
+grapes,healthy
+watermelon,healthy
+cherries,healthy
+pasta,unhealthy
+watermelon,healthy
+chips,unhealthy
+cake,unhealthy
+banana,healthy
+mango,healthy
+grapes,healthy
+soda,unhealthy
+apple,healthy
+nachos,unhealthy
+donut,unhealthy
+fries,unhealthy
+broccoli,healthy
+cherries,healthy
+watermelon,healthy
+watermelon,healthy
+nachos,unhealthy
+apricot,healthy
+grapes,healthy
+ice cream,unhealthy
+potato chips,unhealthy
+cookies,unhealthy
+chocolate,unhealthy
+cucumber,healthy
+cookies,unhealthy
+strawberry,healthy
+tomato,healthy
+cucumber,healthy
+ice cream,unhealthy
+chocolate,unhealthy
+fried chicken,unhealthy
+ice cream,unhealthy
+cheese sticks,unhealthy
+tomato,healthy
+donut,unhealthy
+ice cream,unhealthy
+broccoli,healthy
+kiwi,healthy
+soda,unhealthy
+cheese sticks,unhealthy
+cake,unhealthy
+kiwi,healthy
+fries,unhealthy
+kiwi,healthy
+soda,unhealthy
+spinach,healthy
+cucumber,healthy
+ice cream,unhealthy
+candy,unhealthy
+chocolate,unhealthy
+peach,healthy
+tomato,healthy
+pastry,unhealthy
+ice cream,unhealthy
+grapes,healthy
+cherries,healthy
+strawberry,healthy
+chocolate,unhealthy
+kiwi,healthy
+kiwi,healthy
+cherries,healthy
+watermelon,healthy
+nachos,unhealthy
+watermelon,healthy
+kiwi,healthy
+chocolate,unhealthy
+kiwi,healthy
+fried fish,unhealthy
+potato chips,unhealthy
+strawberry,healthy
+burger,unhealthy
+pastry,unhealthy
+fries,unhealthy
+cherries,healthy
+ice cream,unhealthy
+nachos,unhealthy
+pasta,unhealthy
+apple,healthy
+pastry,unhealthy
+fried chicken,unhealthy
+cheese sticks,unhealthy
+tomato,healthy
+spinach,healthy
+spinach,healthy
+potato chips,unhealthy
+strawberry,healthy
+pear,healthy
+soda,unhealthy
+donut,unhealthy
+cucumber,healthy
+orange,healthy
+cheese sticks,unhealthy
+chocolate,unhealthy
+strawberry,healthy
+chocolate,unhealthy
+chocolate,unhealthy
+candy,unhealthy
+cucumber,healthy
+tomato,healthy
+nachos,unhealthy
+donut,unhealthy
+cucumber,healthy
+burger,unhealthy
+pasta,unhealthy
+kiwi,healthy
+chips,unhealthy
+watermelon,healthy
+melon,healthy
+nachos,unhealthy
+cucumber,healthy
+spinach,healthy
+fries,unhealthy
+pizza,unhealthy
+cookies,unhealthy
+apple,healthy
+fried fish,unhealthy
+pastry,unhealthy
+avocado,healthy
+chocolate,unhealthy
+tomato,healthy
+chocolate,unhealthy
+tomato,healthy
+grapes,healthy
+nachos,unhealthy
+ice cream,unhealthy
+soda,unhealthy
+cheese sticks,unhealthy
+chips,unhealthy
+pasta,unhealthy
+cookies,unhealthy
+cherries,healthy
+grapes,healthy
+peach,healthy
+candy,unhealthy
+fried fish,unhealthy
+burger,unhealthy
+nachos,unhealthy
+cookies,unhealthy
+tomato,healthy
+fried chicken,unhealthy
+donut,unhealthy
+ice cream,unhealthy
+pear,healthy
+avocado,healthy
+chips,unhealthy
+donut,unhealthy
+candy bar,unhealthy
+burger,unhealthy
+cucumber,healthy
+potato chips,unhealthy
+strawberry,healthy
+energy drink,unhealthy
+banana,healthy
+cake,unhealthy
+avocado,healthy
+fried chicken,unhealthy
+apricot,healthy
+avocado,healthy
+energy drink,unhealthy
+fries,unhealthy
+burger,unhealthy
+broccoli,healthy
+cake,unhealthy
+ice cream,unhealthy
+avocado,healthy
+cherries,healthy
+ice cream,unhealthy
+cake,unhealthy
+apple,healthy
+melon,healthy
+fried fish,unhealthy
+nachos,unhealthy
+chips,unhealthy
+apricot,healthy
+watermelon,healthy
+mango,healthy
+pastry,unhealthy
+soda,unhealthy
+candy,unhealthy
+fries,unhealthy
+banana,healthy
+banana,healthy
+pear,healthy
+pizza,unhealthy
+apple,healthy
+blueberry,healthy
+soda,unhealthy
+fried chicken,unhealthy
+watermelon,healthy
+grapes,healthy
+fried fish,unhealthy
+chocolate,unhealthy
+blueberry,healthy
+fried chicken,unhealthy
+apple,healthy
+pastry,unhealthy
+candy bar,unhealthy
+blueberry,healthy
+pastry,unhealthy
+cookies,unhealthy
+energy drink,unhealthy
+cherries,healthy
+apricot,healthy
+candy bar,unhealthy
+carrot,healthy
+fried fish,unhealthy
+grapes,healthy
+fried fish,unhealthy
+orange,healthy
+fried chicken,unhealthy
+orange,healthy
+cheese sticks,unhealthy
+energy drink,unhealthy
+apricot,healthy
+candy bar,unhealthy
+cookies,unhealthy
+cheese sticks,unhealthy
+peach,healthy
+cherries,healthy
+fried fish,unhealthy
+candy bar,unhealthy
+kiwi,healthy
+orange,healthy
+candy,unhealthy
+nachos,unhealthy
+blueberry,healthy
+spinach,healthy
+avocado,healthy
+candy,unhealthy
+cheese sticks,unhealthy
+candy bar,unhealthy
+spinach,healthy
+avocado,healthy
+kiwi,healthy
+chocolate,unhealthy
+ice cream,unhealthy
+mango,healthy
+nachos,unhealthy
+watermelon,healthy
+orange,healthy
+pastry,unhealthy
+fries,unhealthy
+watermelon,healthy
+spinach,healthy
+soda,unhealthy
+pastry,unhealthy
+apple,healthy
+kiwi,healthy
+pear,healthy
+ice cream,unhealthy
+donut,unhealthy
+burger,unhealthy
+pear,healthy
+apricot,healthy
+peach,healthy
+energy drink,unhealthy
+ice cream,unhealthy
+burger,unhealthy
+watermelon,healthy
+fried fish,unhealthy
+burger,unhealthy
+banana,healthy
+soda,unhealthy
+candy,unhealthy
+donut,unhealthy
+kiwi,healthy
+tomato,healthy
+cherries,healthy
+tomato,healthy
+ice cream,unhealthy
+broccoli,healthy
+kiwi,healthy
+candy,unhealthy
+apple,healthy
+banana,healthy
+cheese sticks,unhealthy
+carrot,healthy
+pear,healthy
+potato chips,unhealthy
+apple,healthy
+burger,unhealthy
+carrot,healthy
+donut,unhealthy
+tomato,healthy
+chips,unhealthy
+candy bar,unhealthy
+pear,healthy
+apricot,healthy
+carrot,healthy
+mango,healthy
+cheese sticks,unhealthy
+carrot,healthy
+melon,healthy
+strawberry,healthy
+apricot,healthy
+mango,healthy
+pastry,unhealthy
+candy bar,unhealthy
+apple,healthy
+cookies,unhealthy
+cake,unhealthy
+peach,healthy
+soda,unhealthy
+spinach,healthy
+chocolate,unhealthy
+candy bar,unhealthy
+cucumber,healthy
+blueberry,healthy
+potato chips,unhealthy
+candy,unhealthy
+cookies,unhealthy
+burger,unhealthy
+avocado,healthy
+cookies,unhealthy
+candy bar,unhealthy
+nachos,unhealthy
+kiwi,healthy
+nachos,unhealthy
+pasta,unhealthy
+watermelon,healthy
+strawberry,healthy
+orange,healthy
+fries,unhealthy
+apple,healthy
+strawberry,healthy
+mango,healthy
+carrot,healthy
+soda,unhealthy
+pastry,unhealthy
+grapes,healthy
+kiwi,healthy
+chips,unhealthy
+cake,unhealthy
+fried chicken,unhealthy
+ice cream,unhealthy
+spinach,healthy
+nachos,unhealthy
+broccoli,healthy
+candy bar,unhealthy
+peach,healthy
+apricot,healthy
+tomato,healthy
+donut,unhealthy
+cookies,unhealthy
+carrot,healthy
+orange,healthy
+candy bar,unhealthy
+soda,unhealthy
+watermelon,healthy
+avocado,healthy
+melon,healthy
+donut,unhealthy
+strawberry,healthy
+candy,unhealthy
+pastry,unhealthy
+chips,unhealthy
+watermelon,healthy
+strawberry,healthy
+potato chips,unhealthy
+donut,unhealthy
+fries,unhealthy
+apple,healthy
+energy drink,unhealthy
+fried fish,unhealthy
+fried chicken,unhealthy
+nachos,unhealthy
+cherries,healthy
+grapes,healthy
+apricot,healthy
+cake,unhealthy
+cake,unhealthy
+pear,healthy
+cherries,healthy
+peach,healthy
+pear,healthy
+tomato,healthy
+fried fish,unhealthy
+tomato,healthy
+banana,healthy
+carrot,healthy
+candy bar,unhealthy
+potato chips,unhealthy
+cookies,unhealthy
+cucumber,healthy
+cake,unhealthy
+candy bar,unhealthy
+pizza,unhealthy
+potato chips,unhealthy
+grapes,healthy
+apple,healthy
+melon,healthy
+carrot,healthy
+orange,healthy
+apricot,healthy
+broccoli,healthy
+chips,unhealthy
+energy drink,unhealthy
+cucumber,healthy
+burger,unhealthy
+cake,unhealthy
+mango,healthy
+cucumber,healthy
+donut,unhealthy
+donut,unhealthy
+pasta,unhealthy
+broccoli,healthy
+candy bar,unhealthy
+peach,healthy
+mango,healthy
+pear,healthy
+candy bar,unhealthy
+spinach,healthy
+candy bar,unhealthy
+potato chips,unhealthy
+apple,healthy
+pear,healthy
+banana,healthy
+cookies,unhealthy
+mango,healthy
+peach,healthy
+banana,healthy
+fried chicken,unhealthy
+tomato,healthy
+tomato,healthy
+grapes,healthy
+burger,unhealthy
+pizza,unhealthy
+pasta,unhealthy
+burger,unhealthy
+pasta,unhealthy
+candy,unhealthy
+kiwi,healthy
+broccoli,healthy
+pasta,unhealthy
+apple,healthy
+fries,unhealthy
+fries,unhealthy
+grapes,healthy
+cherries,healthy
+pasta,unhealthy
+candy bar,unhealthy
+cheese sticks,unhealthy
+cake,unhealthy
+pastry,unhealthy
+burger,unhealthy
+mango,healthy
+ice cream,unhealthy
+candy,unhealthy
+cheese sticks,unhealthy
+melon,healthy
+nachos,unhealthy
+soda,unhealthy
+fried fish,unhealthy
+watermelon,healthy
+peach,healthy
+potato chips,unhealthy
+chips,unhealthy
+avocado,healthy
+burger,unhealthy
+apple,healthy
+apricot,healthy
+spinach,healthy
+carrot,healthy
+melon,healthy
+cookies,unhealthy
+potato chips,unhealthy
+soda,unhealthy
+carrot,healthy
+cherries,healthy
+blueberry,healthy
+broccoli,healthy
+nachos,unhealthy
+energy drink,unhealthy
+watermelon,healthy
+apple,healthy
+cookies,unhealthy
+broccoli,healthy
+broccoli,healthy
+broccoli,healthy
+blueberry,healthy
+mango,healthy
+broccoli,healthy
+pizza,unhealthy
+cookies,unhealthy
+cookies,unhealthy
+kiwi,healthy
+grapes,healthy
+melon,healthy
+orange,healthy
+grapes,healthy
+ice cream,unhealthy
+pastry,unhealthy
+carrot,healthy
+energy drink,unhealthy
+avocado,healthy
+ice cream,unhealthy
+watermelon,healthy
+melon,healthy
+fries,unhealthy
+cheese sticks,unhealthy
+nachos,unhealthy
+candy bar,unhealthy
+banana,healthy
+carrot,healthy
+broccoli,healthy
+watermelon,healthy
+mango,healthy
+nachos,unhealthy
+pizza,unhealthy
+blueberry,healthy
+candy,unhealthy
+soda,unhealthy
+spinach,healthy
+cookies,unhealthy
+nachos,unhealthy
+cucumber,healthy
+tomato,healthy
+blueberry,healthy
+banana,healthy
+chips,unhealthy
+pastry,unhealthy
+cherries,healthy
+pizza,unhealthy
+kiwi,healthy
+pasta,unhealthy
+cake,unhealthy
+burger,unhealthy
+ice cream,unhealthy
+candy,unhealthy
+melon,healthy
+cookies,unhealthy
+pizza,unhealthy
+tomato,healthy
+nachos,unhealthy
+cucumber,healthy
+banana,healthy
+pastry,unhealthy
+candy bar,unhealthy
+orange,healthy
+blueberry,healthy
+orange,healthy
+cake,unhealthy
+strawberry,healthy
+cookies,unhealthy
+cucumber,healthy
+pear,healthy
+kiwi,healthy
+chocolate,unhealthy
+kiwi,healthy
+pasta,unhealthy
+cookies,unhealthy
+carrot,healthy
+blueberry,healthy
+pear,healthy
+grapes,healthy
+cheese sticks,unhealthy
+pizza,unhealthy
+cake,unhealthy
+energy drink,unhealthy
+grapes,healthy
+apple,healthy
+fried fish,unhealthy
+potato chips,unhealthy
+carrot,healthy
+broccoli,healthy
+watermelon,healthy
+watermelon,healthy
+spinach,healthy
+apple,healthy
+pastry,unhealthy
+apricot,healthy
+nachos,unhealthy
+strawberry,healthy
+burger,unhealthy
+pear,healthy
+carrot,healthy
+spinach,healthy
+avocado,healthy
+orange,healthy
+pear,healthy
+cake,unhealthy
+nachos,unhealthy
+broccoli,healthy
+peach,healthy
+nachos,unhealthy
+potato chips,unhealthy
+watermelon,healthy
+pear,healthy
+melon,healthy
+cake,unhealthy
+spinach,healthy
+pasta,unhealthy
+banana,healthy
+chocolate,unhealthy
+fried chicken,unhealthy
+mango,healthy
+cookies,unhealthy
+fried fish,unhealthy
+strawberry,healthy
+candy bar,unhealthy
+pear,healthy
+watermelon,healthy
+nachos,unhealthy
+apricot,healthy
+nachos,unhealthy
+orange,healthy
+chips,unhealthy
+grapes,healthy
+ice cream,unhealthy
+mango,healthy
+watermelon,healthy
+fried fish,unhealthy
+carrot,healthy
+fries,unhealthy
+apricot,healthy
+ice cream,unhealthy
+chips,unhealthy
+spinach,healthy
+burger,unhealthy
+pear,healthy
+mango,healthy
+chips,unhealthy
+cherries,healthy
+chocolate,unhealthy
+fried chicken,unhealthy
+pizza,unhealthy
+donut,unhealthy
+cheese sticks,unhealthy
+potato chips,unhealthy
+cherries,healthy
+candy bar,unhealthy
+banana,healthy
+cheese sticks,unhealthy
+mango,healthy
+cucumber,healthy
+fries,unhealthy
+strawberry,healthy
+fries,unhealthy
+pasta,unhealthy
+pastry,unhealthy
+melon,healthy
+candy bar,unhealthy
+strawberry,healthy
+strawberry,healthy
+fried chicken,unhealthy
+ice cream,unhealthy
+banana,healthy
+potato chips,unhealthy
+pizza,unhealthy
+cake,unhealthy
+blueberry,healthy
+peach,healthy
+fried chicken,unhealthy
+burger,unhealthy
+cherries,healthy
+carrot,healthy
+blueberry,healthy
+candy,unhealthy
+nachos,unhealthy
+cucumber,healthy
+cookies,unhealthy
+ice cream,unhealthy
+mango,healthy
+donut,unhealthy
+watermelon,healthy
+pear,healthy
+energy drink,unhealthy
+avocado,healthy
+cherries,healthy
+grapes,healthy
+peach,healthy
+potato chips,unhealthy
+pasta,unhealthy
+pizza,unhealthy
+blueberry,healthy
+fries,unhealthy
+pasta,unhealthy
+grapes,healthy
+burger,unhealthy
+pizza,unhealthy
+spinach,healthy
+cookies,unhealthy
+pear,healthy
+ice cream,unhealthy
+donut,unhealthy
+nachos,unhealthy
+pizza,unhealthy
+broccoli,healthy
+mango,healthy
+broccoli,healthy
+peach,healthy
+donut,unhealthy
+avocado,healthy
+grapes,healthy
+potato chips,unhealthy
+candy bar,unhealthy
+fries,unhealthy
+potato chips,unhealthy
+avocado,healthy
+apricot,healthy
+cucumber,healthy
+fries,unhealthy
+energy drink,unhealthy
+chocolate,unhealthy
+cherries,healthy
+pastry,unhealthy
+soda,unhealthy
+chocolate,unhealthy
+cake,unhealthy
+melon,healthy
+fries,unhealthy
+cherries,healthy
+donut,unhealthy
+energy drink,unhealthy
+fries,unhealthy
+soda,unhealthy
+cake,unhealthy
+strawberry,healthy
+pear,healthy
+fries,unhealthy
+cake,unhealthy
+chocolate,unhealthy
+banana,healthy
+tomato,healthy
+melon,healthy
+pastry,unhealthy
+ice cream,unhealthy
+apricot,healthy
+grapes,healthy
+apricot,healthy
+energy drink,unhealthy
+potato chips,unhealthy
+kiwi,healthy
+apple,healthy
+donut,unhealthy
+ice cream,unhealthy
+soda,unhealthy
+donut,unhealthy
+chips,unhealthy
+spinach,healthy
+pastry,unhealthy
+watermelon,healthy
+nachos,unhealthy
+fried fish,unhealthy
+tomato,healthy
+banana,healthy
+soda,unhealthy
+ice cream,unhealthy
+nachos,unhealthy
+pasta,unhealthy
+tomato,healthy
+strawberry,healthy
+potato chips,unhealthy
+banana,healthy
+fried fish,unhealthy
+cookies,unhealthy
+candy bar,unhealthy
+cookies,unhealthy
+watermelon,healthy
+strawberry,healthy
+pastry,unhealthy
+candy bar,unhealthy
+chocolate,unhealthy
+fries,unhealthy
+cookies,unhealthy
+burger,unhealthy
+fried chicken,unhealthy
+burger,unhealthy
+spinach,healthy
+energy drink,unhealthy
+carrot,healthy
+cake,unhealthy
+cookies,unhealthy
+banana,healthy
+chips,unhealthy
+potato chips,unhealthy
+banana,healthy
+candy bar,unhealthy
+apple,healthy
+apple,healthy
+fried fish,unhealthy
+orange,healthy
+broccoli,healthy
+candy,unhealthy
+nachos,unhealthy
+orange,healthy
+cherries,healthy
+soda,unhealthy
+pastry,unhealthy
+candy bar,unhealthy
+kiwi,healthy
+potato chips,unhealthy
+kiwi,healthy
+pear,healthy
+candy bar,unhealthy
+spinach,healthy
+avocado,healthy
+donut,unhealthy
+nachos,unhealthy
+carrot,healthy
+melon,healthy
+chocolate,unhealthy
+donut,unhealthy
+candy bar,unhealthy
+broccoli,healthy
+chips,unhealthy
+ice cream,unhealthy
+chocolate,unhealthy
+avocado,healthy
+apple,healthy
+strawberry,healthy
+kiwi,healthy
+blueberry,healthy
+nachos,unhealthy
+tomato,healthy
+burger,unhealthy
+strawberry,healthy
+kiwi,healthy
+grapes,healthy
+mango,healthy
+pear,healthy
+cucumber,healthy
+energy drink,unhealthy
+strawberry,healthy
+burger,unhealthy
+nachos,unhealthy
+chocolate,unhealthy
+chips,unhealthy
+soda,unhealthy
+spinach,healthy
+cucumber,healthy
+candy,unhealthy
+apricot,healthy
+watermelon,healthy
+cucumber,healthy
+apricot,healthy
+apricot,healthy
+fried fish,unhealthy
+watermelon,healthy
+fries,unhealthy
+chips,unhealthy
+ice cream,unhealthy
+melon,healthy
+apricot,healthy
+cookies,unhealthy
+energy drink,unhealthy
+kiwi,healthy
+apricot,healthy
+candy,unhealthy
+pear,healthy
+melon,healthy
+donut,unhealthy
+pastry,unhealthy
+grapes,healthy
+orange,healthy
+cherries,healthy
+grapes,healthy
+energy drink,unhealthy
+avocado,healthy
+cucumber,healthy
+pizza,unhealthy
+soda,unhealthy
+nachos,unhealthy
+orange,healthy
+banana,healthy
+cheese sticks,unhealthy
+nachos,unhealthy
+potato chips,unhealthy
+pizza,unhealthy
+potato chips,unhealthy
+chocolate,unhealthy
+kiwi,healthy
+donut,unhealthy
+donut,unhealthy
+chips,unhealthy
+watermelon,healthy
+burger,unhealthy
+cherries,healthy
+burger,unhealthy
+apple,healthy
+kiwi,healthy
+fries,unhealthy
+banana,healthy
+cake,unhealthy
+apricot,healthy
+burger,unhealthy
+pasta,unhealthy
+grapes,healthy
+burger,unhealthy
+cheese sticks,unhealthy
+soda,unhealthy
+melon,healthy
+melon,healthy
+tomato,healthy
+candy,unhealthy
+avocado,healthy
+energy drink,unhealthy
+peach,healthy
+apricot,healthy
+grapes,healthy
+pear,healthy
+candy bar,unhealthy
+cucumber,healthy
+kiwi,healthy
+melon,healthy
+blueberry,healthy
+cookies,unhealthy
+cheese sticks,unhealthy
+peach,healthy
+candy,unhealthy
+fries,unhealthy
+blueberry,healthy
+pasta,unhealthy
+spinach,healthy
+burger,unhealthy
+cheese sticks,unhealthy
+tomato,healthy
+melon,healthy
+fried fish,unhealthy
+melon,healthy
+cake,unhealthy
+peach,healthy
+fries,unhealthy
+fried chicken,unhealthy
+banana,healthy
+ice cream,unhealthy
+burger,unhealthy
+peach,healthy
+fried fish,unhealthy
+cucumber,healthy
+cookies,unhealthy
+pastry,unhealthy
+tomato,healthy
+apricot,healthy
+carrot,healthy
+ice cream,unhealthy
+chips,unhealthy
+spinach,healthy
+soda,unhealthy
+pear,healthy
+carrot,healthy
+tomato,healthy
+tomato,healthy
+orange,healthy
+fried fish,unhealthy
+pastry,unhealthy
+chips,unhealthy
+melon,healthy
+peach,healthy
+ice cream,unhealthy
+cherries,healthy
+kiwi,healthy
+cherries,healthy
+fries,unhealthy
+donut,unhealthy
+tomato,healthy
+chips,unhealthy
+banana,healthy
+potato chips,unhealthy
+fries,unhealthy
+orange,healthy
+melon,healthy
+burger,unhealthy
+cheese sticks,unhealthy
+carrot,healthy
+donut,unhealthy
+cake,unhealthy
+melon,healthy
+ice cream,unhealthy
+watermelon,healthy
+kiwi,healthy
+broccoli,healthy
+pear,healthy
+apple,healthy
+pastry,unhealthy
+fried chicken,unhealthy
+cookies,unhealthy
+soda,unhealthy
+pastry,unhealthy
+kiwi,healthy
+fries,unhealthy
+strawberry,healthy
+fried fish,unhealthy
+energy drink,unhealthy
+cake,unhealthy
+burger,unhealthy
+peach,healthy
+apricot,healthy
+orange,healthy
+apple,healthy
+donut,unhealthy
+apricot,healthy
+pasta,unhealthy
+apple,healthy
+cucumber,healthy
+watermelon,healthy
+apple,healthy
+ice cream,unhealthy
+watermelon,healthy

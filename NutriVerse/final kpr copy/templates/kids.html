@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Lunchbox Food Classifier</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #f2f7f5;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    .container {
+      background: #ffffff;
+      border-radius: 16px;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+      padding: 30px 40px;
+      width: 400px;
+      text-align: center;
+    }
+    h1 {
+      margin-bottom: 20px;
+      color: #2e7d32;
+    }
+    button {
+      padding: 10px 20px;
+      margin: 5px;
+      background-color: #43a047;
+      border: none;
+      color: white;
+      font-size: 16px;
+      border-radius: 10px;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+    button:hover {
+      background-color: #388e3c;
+    }
+    .result {
+      margin-top: 20px;
+      padding: 15px;
+      border-radius: 10px;
+      background-color: #e8f5e9;
+      color: #2e7d32;
+      font-weight: 500;
+      white-space: pre-line;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Lunchbox Classifier</h1>
+    <button id="startButton" onclick="startGame()">🎤 Start</button>
+    <button id="tryAgainButton" onclick="resetGame()" style="display: none;">🔄 Try Again</button>
+    <div class="result" id="result-box" style="display: none;"></div>
+  </div>
+
+  <script>
+    let stars = parseInt(localStorage.getItem("stars")) || 0;
+    const resultBox = document.getElementById("result-box");
+
+    async function startGame() {
+      document.getElementById("startButton").disabled = true;
+      document.getElementById("tryAgainButton").style.display = "none";
+      resultBox.style.display = "none";
+      resultBox.innerText = "";
+
+      await speak("Say your lunchbox items");
+
+      const items = await listenToSpeech(10000); // 10 seconds max
+
+      if (!items || items.trim() === "") {
+        const msg = "Not recognized. Please try again.";
+        resultBox.style.display = "block";
+        resultBox.innerText = msg;
+        await speak(msg);
+        document.getElementById("startButton").disabled = false;
+        return;
+      }
+
+      const response = await fetch("/classify", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ items })
+      });
+
+      const data = await response.json();
+
+      // Update golden star count
+      data.feedback.forEach(item => {
+        const feedback = item.toLowerCase();
+        if (feedback.includes("unhealthy")) stars -= 1;
+        else if (feedback.includes("healthy")) stars += 1;
+      });
+
+      // Save to local storage
+      localStorage.setItem("stars", stars);
+
+      // Build feedback message
+      let displayText = `Recognized: ${items}\n`;
+      let spokenText = `Recognized: ${items}. `;
+
+      const uniqueFeedback = [...new Set(data.feedback)];
+      for (const line of uniqueFeedback) {
+        displayText += `${line}\n`;
+        spokenText += line + " ";
+      }
+
+      displayText += `\nYour total golden stars are now ${stars}.`;
+      spokenText += `Your total golden stars are now ${stars}.`;
+
+      resultBox.style.display = "block";
+      resultBox.innerText = displayText.trim();
+      await speak(spokenText.trim());
+
+      document.getElementById("tryAgainButton").style.display = "inline-block";
+    }
+
+    function resetGame() {
+      resultBox.style.display = "none";
+      resultBox.innerText = "";
+      document.getElementById("startButton").disabled = false;
+      document.getElementById("tryAgainButton").style.display = "none";
+    }
+
+    function speak(text) {
+      return new Promise(resolve => {
+        const utter = new SpeechSynthesisUtterance(text);
+        utter.lang = 'en-US';
+        utter.onend = resolve;
+        window.speechSynthesis.speak(utter);
+      });
+    }
+
+    function listenToSpeech(timeout = 10000) {
+      return new Promise((resolve) => {
+        const recognition = new (window.SpeechRecognition || window.webkitSpeechRecognition)();
+        recognition.lang = "en-US";
+        recognition.interimResults = false;
+        recognition.maxAlternatives = 1;
+
+        let resultReceived = false;
+
+        recognition.onresult = (event) => {
+          resultReceived = true;
+          resolve(event.results[0][0].transcript);
+        };
+
+        recognition.onerror = () => {
+          resolve(null);
+        };
+
+        recognition.start();
+
+        setTimeout(() => {
+          if (!resultReceived) {
+            recognition.stop();
+            resolve(null);
+          }
+        }, timeout);
+      });
+    }
+  </script>
+</body>
+</html>

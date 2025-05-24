@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Surplus Food Predictor</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: #f9f9f9;
+            margin: 0;
+            padding: 40px;
+        }
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 10px;
+            max-width: 600px;
+            margin: auto;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #444;
+        }
+        form {
+            display: flex;
+            flex-direction: column;
+        }
+        label {
+            margin-top: 20px;
+            font-weight: bold;
+        }
+        select, input[type=number] {
+            padding: 10px;
+            font-size: 1em;
+            margin-top: 5px;
+        }
+        button {
+            margin-top: 30px;
+            padding: 12px;
+            font-size: 1.1em;
+            background-color: #90ee90;
+            border: none;
+            color: white;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #66bb66;
+        }
+        .result {
+            text-align: center;
+            font-size: 1.3em;
+            margin-top: 30px;
+            color: #2f4f4f;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Surplus Food Prediction</h1>
+        <form action="/surplus" method="post">
+            <label for="menu_type">Menu Type:</label>
+            <select name="menu_type" required>
+                <option value="Veg">Veg</option>
+                <option value="Non-Veg">Non-Veg</option>
+                <option value="Mixed">Mixed</option>
+            </select>
+
+            <label for="sales_count">Sales Count:</label>
+            <input type="number" name="sales_count" min="0" max="200" value="100" required>
+
+            <label for="time_of_day">Time of Day:</label>
+            <select name="time_of_day" required>
+                <option value="Lunch">Lunch</option>
+                <option value="Dinner">Dinner</option>
+            </select>
+
+            <label for="day_of_week">Day of Week:</label>
+            <select name="day_of_week" required>
+                <option>Monday</option>
+                <option>Tuesday</option>
+                <option>Wednesday</option>
+                <option>Thursday</option>
+                <option>Friday</option>
+                <option>Saturday</option>
+                <option>Sunday</option>
+            </select>
+
+            <label for="is_holiday">Is it a Holiday?</label>
+            <select name="is_holiday" required>
+                <option>Yes</option>
+                <option>No</option>
+            </select>
+
+            <label for="special_event">Is there a Special Event?</label>
+            <select name="special_event" required>
+                <option>Yes</option>
+                <option>No</option>
+            </select>
+
+            <button type="submit">Predict</button>
+        </form>
+
+        {% if prediction %}
+    <div class="result">
+        Predicted Surplus Food: <strong>{{ prediction }} kg</strong>
+    </div>
+{% endif %}
+    </div>
+</body>
+</html>

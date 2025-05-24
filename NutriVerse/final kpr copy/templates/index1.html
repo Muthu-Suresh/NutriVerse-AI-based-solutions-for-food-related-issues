@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Smart Health Assistant</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: #fffaf0;
+            margin: 0;
+        }
+        nav {
+            background-color: #f08080;
+            padding: 15px 30px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 20px;
+            font-size: 1.1em;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+            padding: 60px 20px 20px;
+        }
+        .button-container {
+            text-align: center;
+            margin-top: 40px;
+        }
+        .button {
+            margin: 20px;
+            padding: 20px 40px;
+            font-size: 1.2em;
+            color: white;
+            background-color: #90ee90;
+            border: none;
+            border-radius: 10px;
+            text-decoration: none;
+            display: inline-block;
+        }
+        .button:hover {
+            background-color: #66bb66;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="{{ url_for('index') }}">Home</a>
+        <a href="{{ url_for('diet_model') }}">Diet Recommendation</a>
+        <a href="{{ url_for('nutrition_model') }}">Nutrition Advisor</a>
+        <a href="{{ url_for('food_donation') }}">Food Donation</a>
+        <a href="{{ url_for('surplus_prediction') }}">Surplus Food Prediction</a>
+        <a href="{{ url_for('food_classifier') }}">Lunchbox Classifier for Kids</a>
+    </nav>
+
+    <h1>Welcome to Smart Health Assistant</h1>
+    <div class="button-container">
+        <a href="{{ url_for('diet_model') }}" class="button">Diet Recommendation</a>
+        <a href="{{ url_for('nutrition_model') }}" class="button">Nutrition Deficiency Advisor</a>
+        <a href="{{ url_for('food_donation') }}" class="button">Food Donation</a>
+        <a href="{{ url_for('surplus_prediction') }}" class="button">Surplus Food Prediction</a>
+        <a href="{{ url_for('food_classifier') }}">Lunchbox Classifier for Kids</a>
+    </div>
+</body>
+</html>

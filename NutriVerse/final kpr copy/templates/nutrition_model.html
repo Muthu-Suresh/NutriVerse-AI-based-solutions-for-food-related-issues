@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Nutrition Deficiency Advisor</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: #fef9f4;
+            margin: 0;
+        }
+        nav {
+            background-color: #f08080;
+            padding: 15px 30px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 20px;
+            font-size: 1.1em;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        h2 {
+            text-align: center;
+            color: #333;
+            padding-top: 40px;
+        }
+        form {
+            max-width: 600px;
+            margin: 40px auto;
+            background: #fff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        label {
+            display: block;
+            margin-top: 15px;
+            font-weight: bold;
+        }
+        input {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+        }
+        button {
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: #ffa07a;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            font-size: 1em;
+        }
+        button:hover {
+            background-color: #ff7f50;
+        }
+        #result {
+            margin: 30px auto;
+            max-width: 600px;
+            background: #e0ffe0;
+            padding: 20px;
+            border-radius: 8px;
+            font-size: 1em;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="diet_model.html">Diet Recommendation</a>
+        <a href="nutrition_model.html">Nutrition Advisor</a>
+    </nav>
+
+    <h2>Nutrition Deficiency Advisor</h2>
+    <form id="nutritionForm">
+        <label for="deficiency">Enter Deficiency (e.g., Vitamin B12):</label>
+        <input type="text" id="deficiency" name="deficiency" required>
+        <button type="submit">Get Recommendation</button>
+    </form>
+
+    <div id="result"></div>
+
+    <script>
+        document.getElementById('nutritionForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            const deficiency = document.getElementById('deficiency').value;
+
+            fetch('nutrition_recommend', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ deficiency: deficiency })
+            })
+            .then(response => response.json())
+            .then(result => {
+                if (result.error) {
+                    document.getElementById('result').innerHTML = `<p style="color:red">${result.error}</p>`;
+                } else {
+                    document.getElementById('result').innerHTML = `
+                        <h3>Recommendation for ${deficiency}:</h3>
+                        <p><strong>Recommended Food 1:</strong> ${result['Recommended Food 1']}</p>
+                        <p><strong>Recommended Food 2:</strong> ${result['Recommended Food 2']}</p>
+                        <p><strong>Note:</strong> ${result['Note']}</p>
+                    `;
+                }
+            })
+            .catch(() => {
+                document.getElementById('result').innerHTML = '<p style="color:red">Error fetching recommendation.</p>';
+            });
+        });
+    </script>
+</body>
+</html>

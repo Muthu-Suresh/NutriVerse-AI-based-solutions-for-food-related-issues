@@ -1,0 +1,12 @@
+name,latitude,longitude,food_types,preferred_times,max_capacity
+Sri Ram Ashram,12.9816,77.5940,"Veg","Morning",150
+Anand Ashram,12.9711,77.6030,"Veg","Afternoon",100
+Premalayam,12.9600,77.5900,"Veg,Non-Veg","Evening",80
+Seva Kutir,12.9500,77.6100,"Veg","Morning",200
+Vishranti Dham,12.9400,77.6200,"Veg,Non-Veg","Evening",50
+Shanti Nivas,12.9650,77.5800,"Veg","Afternoon",120
+Anatha Ashram,12.9750,77.5700,"Veg","Morning",90
+Daya Sadan,12.9850,77.5600,"Veg,Non-Veg","Evening",110
+Karuna Nilaya,12.9950,77.5500,"Veg","Morning",140
+Sneha Bhavan,12.9550,77.6400,"Veg,Non-Veg","Afternoon",60
+
